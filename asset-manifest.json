@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ivankatliarchuk.github.io/static/css/main.6db676a2.chunk.css",
-    "main.js": "/ivankatliarchuk.github.io/static/js/main.04b667f3.chunk.js",
-    "main.js.map": "/ivankatliarchuk.github.io/static/js/main.04b667f3.chunk.js.map",
+    "main.js": "/ivankatliarchuk.github.io/static/js/main.43b69a4c.chunk.js",
+    "main.js.map": "/ivankatliarchuk.github.io/static/js/main.43b69a4c.chunk.js.map",
     "runtime-main.js": "/ivankatliarchuk.github.io/static/js/runtime-main.27644363.js",
     "runtime-main.js.map": "/ivankatliarchuk.github.io/static/js/runtime-main.27644363.js.map",
     "static/js/2.24de58a5.chunk.js": "/ivankatliarchuk.github.io/static/js/2.24de58a5.chunk.js",
     "static/js/2.24de58a5.chunk.js.map": "/ivankatliarchuk.github.io/static/js/2.24de58a5.chunk.js.map",
     "index.html": "/ivankatliarchuk.github.io/index.html",
-    "precache-manifest.3abe89b93462ca1694251efc417b34d7.js": "/ivankatliarchuk.github.io/precache-manifest.3abe89b93462ca1694251efc417b34d7.js",
+    "precache-manifest.7346ce04f9fe61f614c97246781fa6f4.js": "/ivankatliarchuk.github.io/precache-manifest.7346ce04f9fe61f614c97246781fa6f4.js",
     "service-worker.js": "/ivankatliarchuk.github.io/service-worker.js",
     "static/css/main.6db676a2.chunk.css.map": "/ivankatliarchuk.github.io/static/css/main.6db676a2.chunk.css.map",
     "static/js/2.24de58a5.chunk.js.LICENSE.txt": "/ivankatliarchuk.github.io/static/js/2.24de58a5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.27644363.js",
     "static/js/2.24de58a5.chunk.js",
     "static/css/main.6db676a2.chunk.css",
-    "static/js/main.04b667f3.chunk.js"
+    "static/js/main.43b69a4c.chunk.js"
   ]
 }
