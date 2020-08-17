@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a258484b531da34043137fa88cd97fac",
+    "revision": "9e8ada1ee084a8a7fdd38d6cda986811",
     "url": "/ivankatliarchuk.github.io/index.html"
   },
   {
-    "revision": "0fcab3b2772a383ed885",
+    "revision": "c43dc6ced30025d99142",
     "url": "/ivankatliarchuk.github.io/static/css/main.6db676a2.chunk.css"
   },
   {
-    "revision": "2192a58448e59bd6054a",
-    "url": "/ivankatliarchuk.github.io/static/js/2.24de58a5.chunk.js"
+    "revision": "6c6269f40358dc08faf6",
+    "url": "/ivankatliarchuk.github.io/static/js/2.e3361eb2.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ivankatliarchuk.github.io/static/js/2.24de58a5.chunk.js.LICENSE.txt"
+    "url": "/ivankatliarchuk.github.io/static/js/2.e3361eb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fcab3b2772a383ed885",
-    "url": "/ivankatliarchuk.github.io/static/js/main.ea9529ee.chunk.js"
+    "revision": "c43dc6ced30025d99142",
+    "url": "/ivankatliarchuk.github.io/static/js/main.a73276d1.chunk.js"
   },
   {
     "revision": "f2225c4c2e859e26bd08",
