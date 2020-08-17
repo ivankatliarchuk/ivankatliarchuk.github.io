@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ivankatliarchuk.github.io/static/css/main.49cfddc6.chunk.css",
+    "main.js": "/ivankatliarchuk.github.io/static/js/main.771a11b5.chunk.js",
+    "main.js.map": "/ivankatliarchuk.github.io/static/js/main.771a11b5.chunk.js.map",
+    "runtime-main.js": "/ivankatliarchuk.github.io/static/js/runtime-main.27644363.js",
+    "runtime-main.js.map": "/ivankatliarchuk.github.io/static/js/runtime-main.27644363.js.map",
+    "static/js/2.73569b46.chunk.js": "/ivankatliarchuk.github.io/static/js/2.73569b46.chunk.js",
+    "static/js/2.73569b46.chunk.js.map": "/ivankatliarchuk.github.io/static/js/2.73569b46.chunk.js.map",
+    "index.html": "/ivankatliarchuk.github.io/index.html",
+    "precache-manifest.355adcbbefba5d4bc2cb3b99bd497c2d.js": "/ivankatliarchuk.github.io/precache-manifest.355adcbbefba5d4bc2cb3b99bd497c2d.js",
+    "service-worker.js": "/ivankatliarchuk.github.io/service-worker.js",
+    "static/css/main.49cfddc6.chunk.css.map": "/ivankatliarchuk.github.io/static/css/main.49cfddc6.chunk.css.map",
+    "static/js/2.73569b46.chunk.js.LICENSE.txt": "/ivankatliarchuk.github.io/static/js/2.73569b46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27644363.js",
+    "static/js/2.73569b46.chunk.js",
+    "static/css/main.49cfddc6.chunk.css",
+    "static/js/main.771a11b5.chunk.js"
+  ]
+}
