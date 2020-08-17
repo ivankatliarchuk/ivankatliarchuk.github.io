@@ -5,7 +5,8 @@ import {
     faLinkedin,
     faTwitter,
     faGithub,
-    faMedium
+    faMedium,
+    faYoutube
   } from "@fortawesome/free-brands-svg-icons";
 
 export default function SocialFollow() {
@@ -19,9 +20,12 @@ export default function SocialFollow() {
         <a href="https://github.com/ivankatliarchuk" className="github social">
             <FontAwesomeIcon icon={faGithub} size="2x" />
         </a>
-        <a href="https://medium.com/@ivankatliarchuk" className="medium social">
+        <a href="https://medium.com/@ivan.katliarchuk" className="medium social">
             <FontAwesomeIcon icon={faMedium} size="2x" />
-        </a>
+      </a>
+      <a href="https://www.youtube.com/channel/UCukj_3OqMoCVHCSFLAX0a1A" className="youtube social">
+        <FontAwesomeIcon icon={faYoutube} size="2x" />
+      </a>
     </div>
   );
 }

@@ -16,4 +16,10 @@ hooks: ## Setup pre commit.
 validate: ## Validate files with pre-commit hooks
 	@pre-commit run --all-files
 
-.PHONY: help validate hooks
+deploy: ## Deploy github pages
+	@npm run deploy
+
+open: ## Open in browser
+	@open "https://ivankatliarchuk.github.io/"
+
+.PHONY: help validate hooks deploy open

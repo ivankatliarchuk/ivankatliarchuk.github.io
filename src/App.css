@@ -58,16 +58,16 @@ h1, h3, h4 {
     font-weight: 500;
     letter-spacing: 0.7px;
   }
-    
+
   .buton:hover {
     animation: rotate 0.7s ease-in-out both;
   }
-    
+
   .buton:hover span {
     animation: storm 0.7s ease-in-out both;
     animation-delay: 0.06s;
   }
-    
+
   @keyframes rotate {
     0% {
       transform: rotate(0deg) translate3d(0, 0, 0);
@@ -85,7 +85,7 @@ h1, h3, h4 {
       transform: rotate(0deg) translate3d(0, 0, 0);
     }
   }
-    
+
   @keyframes storm {
     0% {
       transform: translate3d(0, 0, 0) translateZ(0);
@@ -102,8 +102,8 @@ h1, h3, h4 {
     100% {
       transform: translate3d(0, 0, 0) translateZ(0);
     }
-  }  
-  
+  }
+
   @media only screen and (max-width: 600px) {
     .card {
         height: 30%;
@@ -126,21 +126,25 @@ a.social {
   }
 
 a.twitter {
-    color: #eee;
-  }
+  color: #eee;
+}
 
 a.linkedin {
-    color: #eee;
-  }
+  color: #eee;
+}
 
 a.github {
-    color: #eee;
-  }
+  color: #eee;
+}
 
 a.medium {
-    color:#eee;
-  }
+  color:#eee;
+}
+
+a.youtube {
+  color: #eee;
+}
 
 a.social:hover {
-    transform: translateY(-2px);
-  }
+  transform: translateY(-2px);
+}
