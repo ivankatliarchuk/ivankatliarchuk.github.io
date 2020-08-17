@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,visualstudiocode,macos
+# Created by https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,react
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,visualstudiocode,react
 
 ### macOS ###
 # General
@@ -139,6 +139,19 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+### react ###
+.DS_*
+**/*.backup.*
+**/*.back.*
+
+node_modules
+
+*.sublime*
+
+psd
+thumb
+sketch
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -151,4 +164,6 @@ dist
 # Ignore all local history of files
 .history
 
-# End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,macos
+# End of https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,react
+
+build/*
