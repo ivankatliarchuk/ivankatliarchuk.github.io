@@ -22,4 +22,7 @@ deploy: ## Deploy github pages
 open: ## Open in browser
 	@open "https://ivankatliarchuk.github.io/"
 
+start: ## Start Server
+	@hugo server -D
+
 .PHONY: help validate hooks deploy open
