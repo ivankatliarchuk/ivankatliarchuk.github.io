@@ -5,6 +5,9 @@ on:
     branches:
       - master  # Set a branch to deploy
 
+env:
+  WITH_V: true
+
 jobs:
   deploy:
     runs-on: ubuntu-18.04
@@ -21,10 +24,11 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -s ${{ env.DOCKER_IMAGE }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
+          publish_branch: gh-pages

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on knowledge base</title>
+    <link>https://ivankatliarchuk.github.io/docs/education/workshops/</link>
+    <description>Recent content in Workshops on knowledge base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://ivankatliarchuk.github.io/docs/education/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+    
+  </channel>
+</rss>

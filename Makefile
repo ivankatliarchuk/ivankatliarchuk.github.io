@@ -3,6 +3,7 @@ SHELL := /bin/bash
 .SHELLFLAGS := -eu -o pipefail -c
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
+SITE_PATH := mysite
 
 help:
 	@printf "Usage: make [target] [VARIABLE=value]\nTargets:\n"
@@ -23,9 +24,9 @@ open: ## Open in browser
 	@open "https://ivankatliarchuk.github.io/"
 
 start: ## Start Server
-	@hugo server -D
+	@hugo server -D -s $(SITE_PATH)
 
 generate: ## Generate site
-	@hugo -D -d docs
+	@hugo -D -d docs -s $(SITE_PATH)
 
 .PHONY: help validate hooks deploy open
