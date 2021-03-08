@@ -1,4 +1,4 @@
-baseURL = "http://ivankatliarchuk.gihub.io/" # The URL of your site.
+baseURL = "https://ivankaliarchuk.github.io" # The URL of your site.
 title = "knowledge base" # Title of your site
 theme = "zdoc" # Name of Zzo theme folder in `themes/`.
 
@@ -56,3 +56,8 @@ author = "Ivan Ka"
 twitter = ""
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Technologist, perpetual student, devops, mentor, continual incremental improvement."
+
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
