@@ -1,3 +1,6 @@
 [submodule "mysite/themes/zdoc"]
 	path = mysite/themes/zdoc
 	url = https://github.com/zzossig/hugo-theme-zdoc.git
+[submodule "mysite/themes/zzo"]
+	path = mysite/themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git

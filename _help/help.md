@@ -27,7 +27,6 @@ git submodule add --depth 1 https://github.com/zzossig/hugo-theme-zdoc.git theme
 - [Themes](https://themes.gohugo.io/)
 - [Theme Meme](https://themes.gohugo.io/hugo-theme-meme/)
 - [Hugo Notice](https://github.com/martignoni/hugo-notice)
-- [](git clone https://github.com/zzossig/hugo-theme-zdoc.git themes/zdoc)
 - [Add Tags&Categories](https://discourse.gohugo.io/t/how-to-add-tag-and-category/3202)
 
 ## Documentation & How-To

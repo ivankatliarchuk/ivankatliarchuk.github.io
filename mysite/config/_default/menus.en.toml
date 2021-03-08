@@ -14,6 +14,7 @@
   name = "Docs"
   url = "docs"
   weight = 2
+  collapsible = true
 
 # [[main]]
 #   identifier = "blog"
@@ -21,14 +22,20 @@
 #   url = "blog"
 #   weight = 3
 
-[[main]]
-  identifier = "devops"
-  name = "DevOps"
-  url = "devops"
-  weight = 4
+# [[main]]
+#   identifier = "devops"
+#   name = "DevOps"
+#   url = "devops"
+#   weight = 4
+
+# [[main]]
+#   identifier = "meta"
+#   name = "Meta"
+#   url = "meta"
+#   weight = 90
 
 [[main]]
-  identifier = "blog"
+  identifier = "tags"
   name = "Tags"
   url = "blog"
-  weight = 2
+  weight = 100

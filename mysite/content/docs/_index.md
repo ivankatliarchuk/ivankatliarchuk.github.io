@@ -1,8 +1,7 @@
 ---
 title: "Docs"
 description: "test post index"
-date: 2020-01-11T14:09:21+09:00
+date: 08-03-2021
 draft: false
+collapsible: true
 ---
-
-Docs page.

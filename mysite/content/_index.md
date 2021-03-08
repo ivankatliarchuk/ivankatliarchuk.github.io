@@ -1,6 +1,6 @@
 ---
 title: Base
-description: Hugo zzo, zdoc theme documentation home page
+description: Documentation home page
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
@@ -26,40 +26,40 @@ footer:
     - title: General
       links:
         - title: Docs
-          link: https://gohugo.io/
-        - title: Learn
-          link: https://gohugo.io/
-        - title: Showcase
-          link: https://gohugo.io/
-        - title: Blog
-          link: https://gohugo.io/
+          link: blog
+        # - title: Learn
+        #   link: https://gohugo.io/
+        # - title: Showcase
+        #   link: https://gohugo.io/
+        # - title: Blog
+        #   link: https://gohugo.io/
     - title: resources
-      links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
+      # links:
+      #   - title: GitHub
+      #     link: https://gohugo.io/
+      #   - title: Releases
+      #     link: https://gohugo.io/
+      #   - title: Spectrum
+      #     link: https://gohugo.io/
+      #   - title: Telemetry
+      #     link: https://gohugo.io/
     - title: Features
-      links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
+      # links:
+      #   - title: GitHub
+      #     link: https://gohugo.io/
+      #   - title: Releases
+      #     link: https://gohugo.io/
+      #   - title: Spectrum
+      #     link: https://gohugo.io/
+      #   - title: Telemetry
+      #     link: https://gohugo.io/
   contents:
     align: right
     applySinglePageCss: false
     markdown:
       |
       ## Knowledge Base
-      Copyright © 2021. All rights reserved.
+      Copyright ©{year}, All Rights Reserved.
 
 sections:
   - bgcolor: teal
