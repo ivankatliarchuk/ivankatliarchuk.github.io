@@ -224,6 +224,8 @@ Temporary Items
 # Generated files by hugo
 /public/
 /resources/_gen/
+mysite/resources/_gen/
+mysite/docs/
 hugo_stats.json
 
 # Executable may be added to repository
