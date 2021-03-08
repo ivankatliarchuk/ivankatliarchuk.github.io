@@ -6,7 +6,7 @@ on:
       - master  # Set a branch to deploy
 
 env:
-  WITH_V: true
+  SITE_PATH: mysite
 
 jobs:
   deploy:
@@ -24,7 +24,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify -s ${{ env.DOCKER_IMAGE }}
+        run: hugo --minify -s ${{ env.SITE_PATH }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
