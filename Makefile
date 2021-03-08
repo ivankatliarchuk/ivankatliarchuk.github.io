@@ -27,6 +27,6 @@ start: ## Start Server
 	@hugo server -D -s $(SITE_PATH)
 
 generate: ## Generate site
-	@hugo -D -d docs -s $(SITE_PATH)
+	@hugo -D -d ../docs -s $(SITE_PATH)
 
 .PHONY: help validate hooks deploy open
