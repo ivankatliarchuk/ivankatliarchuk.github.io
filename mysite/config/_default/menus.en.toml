@@ -1,0 +1,34 @@
+# [[main]]
+#   identifier = "docs"
+#   name = "Docs"
+#   url = "docs"
+#   weight = 1
+[[main]]
+  identifier = "home"
+  name = "Home"
+  url = "home"
+  weight = 1
+
+[[main]]
+  identifier = "docs"
+  name = "Docs"
+  url = "docs"
+  weight = 2
+
+# [[main]]
+#   identifier = "blog"
+#   name = "Blog"
+#   url = "blog"
+#   weight = 3
+
+[[main]]
+  identifier = "devops"
+  name = "DevOps"
+  url = "devops"
+  weight = 4
+
+[[main]]
+  identifier = "blog"
+  name = "Tags"
+  url = "blog"
+  weight = 2

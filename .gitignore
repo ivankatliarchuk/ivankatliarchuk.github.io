@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,react
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,visualstudiocode,react
+# Created by https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,react,hugo
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,visualstudiocode,react,hugo
 
 ### macOS ###
 # General
@@ -220,4 +220,15 @@ Temporary Items
 !.vscode/extensions.json
 *.code-workspace
 
-# End of https://www.toptal.com/developers/gitignore/api/go,vscode,macos
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# End of https://www.toptal.com/developers/gitignore/api/go,vscode,macos,hugo

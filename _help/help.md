@@ -16,6 +16,12 @@ git submodule add --depth 1 https://github.com/zzossig/hugo-theme-zdoc.git theme
    with "hugo new <SECTIONNAME>/<FILENAME>.<FORMAT>".
 3. Start the built-in live server via "hugo server".
 
+## Themes
+
+### Intstall Z-Theme
+
+- [Z Doc](https://zzo-docs.vercel.app/zdoc/gettingstarted/installation/)
+
 ## Resources
 
 - [Themes](https://themes.gohugo.io/)
@@ -23,3 +29,7 @@ git submodule add --depth 1 https://github.com/zzossig/hugo-theme-zdoc.git theme
 - [Hugo Notice](https://github.com/martignoni/hugo-notice)
 - [](git clone https://github.com/zzossig/hugo-theme-zdoc.git themes/zdoc)
 - [Add Tags&Categories](https://discourse.gohugo.io/t/how-to-add-tag-and-category/3202)
+
+## Documentation & How-To
+
+- [](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
