@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web on knowledge base</title>
-    <link>http://ivankatliarchuk.gihub.io/tags/web/</link>
+    <link>https://ivankatliarchuk.github.io/tags/web/</link>
     <description>Recent content in web on knowledge base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://ivankatliarchuk.gihub.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ivankatliarchuk.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Content Formats</title>
-        <link>http://ivankatliarchuk.gihub.io/docs/contentfortmats/</link>
+        <link>https://ivankatliarchuk.github.io/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://ivankatliarchuk.gihub.io/docs/contentfortmats/</guid>
+        <guid>https://ivankatliarchuk.github.io/docs/contentfortmats/</guid>
         <description>Introduction One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
 My Heading He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.
 My Subheading A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</description>
@@ -27,10 +27,10 @@ My Subheading A collection of textile samples lay spread out on the table - Sams
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://ivankatliarchuk.gihub.io/devops/markdown-syntax/</link>
+        <link>https://ivankatliarchuk.github.io/devops/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://ivankatliarchuk.gihub.io/devops/markdown-syntax/</guid>
+        <guid>https://ivankatliarchuk.github.io/devops/markdown-syntax/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;

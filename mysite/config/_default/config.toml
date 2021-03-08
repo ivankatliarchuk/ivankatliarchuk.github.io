@@ -1,4 +1,4 @@
-baseURL = "https://ivankaliarchuk.github.io" # The URL of your site.
+baseURL = "https://ivankatliarchuk.github.io" # The URL of your site.
 title = "knowledge base" # Title of your site
 theme = "zdoc" # Name of Zzo theme folder in `themes/`.
 

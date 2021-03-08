@@ -25,4 +25,7 @@ open: ## Open in browser
 start: ## Start Server
 	@hugo server -D
 
+generate: ## Generate site
+	@hugo -D -d docs
+
 .PHONY: help validate hooks deploy open
