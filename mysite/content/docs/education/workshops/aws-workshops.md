@@ -2,7 +2,7 @@
 title: "AWS Workshops"
 description: "AWS Workshops"
 date: 2020-01-30
-draft: true
+draft: false
 enableToc: true
 author: "ivan ka"
 weight: 1
@@ -38,4 +38,3 @@ tags: ["workshop", "aws", "ecs" , "eks"]
 
 > ###### Excerpt
 > This is self-paced workshop designed to allow developers and system administrators to get hands on with Amazon Elastic Container Service concepts such as service and container-instance auto-scaling...
-
