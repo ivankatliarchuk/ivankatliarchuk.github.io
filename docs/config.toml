@@ -1,0 +1,55 @@
+baseURL = "http://example.org/"
+
+title = "IvanKa Welcome Page"
+theme = "toha"
+
+languageCode = "en-us"
+defaultContentLanguage = "en"
+# Enable global emoji support
+enableEmoji = true
+
+# Allow raw html in markdown file
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#     unsafe = true
+#   [markup.tableOfContents]
+#   startLevel = 2
+#   endLevel = 6
+#   ordered = false
+# [markup.goldmark.renderer]
+# unsafe = true
+
+# [markup.tableOfContents]
+# startLevel = 2
+# endLevel = 6
+# ordered = false
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+[outputs]
+home = ["HTML","RSS","JSON"]
+
+# Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
+# DefaultContentLanguage: en
+[languages.en]
+languageName = "English"
+weight = 1
+[languages.ru]
+languageName = "Russian"
+weight = 2
+
+# Site parameters
+[params]
+# background = "/images/site/background.jpg"
+gitRepo = "https://github.com/ivankatliarchuk/ivankatliarchuk.github.io"
+gitBranch = "main"
+enableBlogPost = true
+enableTOC = true
+
+  # [params.logo]
+  # main = "/images/site/main-logo.png"
+  # inverted = "/images/site/inverted-logo.png"
+  # favicon = "/images/site/favicon.png"
+
+  # [params.newsletter]
+  # enable = true

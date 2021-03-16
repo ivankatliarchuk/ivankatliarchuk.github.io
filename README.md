@@ -7,3 +7,14 @@
 ## TODO
 
 - [ ] Setup Github Actions https://github.com/peaceiris/actions-hugo
+
+## Themes
+
+- [Toha](https://github.com/hugo-toha/toha)
+- [Toha Setup](https://toha-guides.netlify.app/posts/features)
+- [Toha images](https://github.com/hugo-toha/toha/issues/206)
+
+## Converters
+
+- [Yaml to Toml](https://toolkit.site/format.html)
+- [Yaml to TOML](https://www.convertsimple.com/convert-yaml-to-toml/)

@@ -1,0 +1,61 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior DevOps & SRE
+# your company information
+company:
+  name: Nearform.
+  url: "https://www.nearform.com/"
+
+# a summary about you
+summary: 'Designing and building complex sytems, setup continuous integration systems and infastructure-as-code environments, multi region failover,
+zero-downtime deployments and more...'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "tanzwud.work@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ivankatliarchuk"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ivankatliarchuk"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Communication
+  percentage: 90
+  color: pink
+- name: Problem Solving
+  percentage: 100
+  color: orange
+- name: Leadership
+  percentage: 79
+  color: blue
+- name: Automation
+  percentage: 100
+  color: yellow
+- name: Coding&Scripting
+  percentage: 100
+  color: green
+- name: Clouds
+  percentage: 100
+  color: sky
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
