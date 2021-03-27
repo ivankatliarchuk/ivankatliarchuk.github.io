@@ -29,4 +29,7 @@ start: ## Start Server
 generate: ## Generate site
 	@hugo -D -d ../docs -s $(SITE_PATH)
 
+submodules: ## Update submodules
+	@git submodule update --remote --recursive
+
 .PHONY: help validate hooks deploy open

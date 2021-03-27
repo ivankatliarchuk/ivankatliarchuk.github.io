@@ -1,7 +1,9 @@
-name: Check Markdown links
+name: check-markdown-links
 
-# Run action on pull request event
-on: [pull_request]
+on:
+  push:
+    branches:
+      - master  # Set a branch to deploy
 
 jobs:
   markdown-link-check:

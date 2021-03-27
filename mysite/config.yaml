@@ -1,4 +1,4 @@
-# baseURL: 'http://example.org/'
+baseURL: 'https://ivankatliarchuk.github.io/'
 title: IvanKa
 theme: toha
 languageCode: en-us
@@ -41,10 +41,10 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   # It will default to the theme logos if not provided.
-  # logo:
-  #   main: /images/site/main-logo.png
-  #   inverted: /images/site/inverted-logo.png
-  #   favicon: /images/site/favicon.png
+  logo:
+    main: images/site/logo/logo-8.png
+    inverted: "images/site/logo/logo-9.png"
+    favicon: "images/site/logo/logo-9.png"
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io
