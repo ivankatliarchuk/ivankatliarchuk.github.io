@@ -1,0 +1,158 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+experiences:
+- company:
+    name: Nearform
+    url: "https://www.nearform.com"
+    location: UK, Europe, Remote
+    # company overview
+    overview: Global software consultancy, enabling our clients to deliver real and lasting business impact through design and technology.
+  positions:
+  - designation: Senior DevOps & SRE
+    start: Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developing solutions at an enterprise level
+    - Security, Disaster Recovery, Automation, Infrastructure as code
+    - Managing and automating complex platforms/applications on AWS, GCP or Azure
+    - Node, Golang, Python, AWS, GCP, ArgoCD, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
+- company:
+    name: Armakuni
+    url: "https://www.armakuni.com"
+    location: UK, London, Remote
+    # company overview
+    overview: Specialist engineering consultants across Cloud Native technologies, practices and principles work with you to define and deliver your change journey.
+  positions:
+  - designation: Technical Consultant
+    start: Apr 2018
+    end: Dec 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Digital transformation
+    - Private and public clouds automation
+    - Infrastructure improvements, testing & security hardenin
+    - Java, Node, Golang, Python, AWS, Azure, GCP, Microservices, Serverless, DevOps, Agile
+- company:
+    name: Hermes Group
+    url: "https://www.hermesworld.com"
+    location: UK, Leeds
+    # company overview
+    overview: European delivery company operates acrross UK, Germany, Austria, Germany and Russia
+  positions:
+  - designation: Senior Engineer & DevOps
+    start: Dec 2016
+    end: Apr 2018
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead backend and infrastructure team
+    - Serverless infrastructure using pipelines, configuration as code, containers on multiple cloud platforms as well as on-premise
+    - Java, Android, NodeJS, AWS, MongoDB, Microservices, Serverless DevOps, Agile
+- company:
+    name: MHR
+    url: "https://mhrglobal.com"
+    location: UK, Nottingham
+    overview: HR and payrol platforms to solve any working challanges
+  positions:
+  - designation: Senior Software Engineer
+    start: Apr 2015
+    end: Dec 2016
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Transformed a monolith to a microservice architecture
+    - Migration applications from bare metal Solaris to Kubernetes
+    - Java, JavaEE, Azure, SQL Server, Jenkins, Microservices, Agile
+- company:
+    name: NDA
+    url: "http://nda.com"
+    location: UK, part-time contractor
+    overview: Providing customers the freedom to innovate and run their businesses with minimal friction
+  positions:
+  - designation: Security Engineer
+    start: May 2011
+    end: Feb 2015
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Vulnerability, incident response, threat hunting, and monitoring platform
+    - Vulnerability identification, remediation, and management reporting processes with IT squads and suppliers to manage risks/prevent
+    - AWS, Java, Python, DevSecOps, Agile
+- company:
+    name: Contractor on different projects
+    url: "https://google.com"
+    location: UK, USA, Remote
+    overview: Public and Private sectors
+  positions:
+  - designation: Software & Infrastructure Engineer
+    start: May 2011
+    end: Feb 2015
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Inspire customers and peers to solve difficult problems with innovative and novel solutions, leveraging an excellent set of technical competences.
+    - Recommend migration strategies, enterprise architectures, migration tools, and cloud infrastructure required to successfully implement a complete solution using best practices
+    - C#, Java, Python, Node, AWS, Azure, DevSecOps, Agile
+- company:
+    name: Boots Care Support Pharmacy
+    url: "https://www.boots-uk.com/about-boots-uk/healthcare/pharmacy/care-services"
+    location: UK, Nottingham
+    overview: Health and beauty retailer and pharmacy chain
+  positions:
+  - designation: Engineer
+    start: Jan 2012
+    end: May 2012
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Maintain the technical intellectual property in the Integration tooling and automation space
+    - Automating deployment, scaling, and management, both in the cloud (AWS, Azure) or on-premise.
+    - Java, Python, Node, DevOps, Agile
+- company:
+    name: Wilkinson Hardware Stores
+    url: "https://corporate.wilko.com"
+    location: UK, Nottingham
+    overview: British high-street retail chain which sells homewares and household goods
+  positions:
+  - designation: Software Engineer
+    start: Jul 2011
+    end: Jan 2012
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Working with prototypes and proof of concepts and developing fully functioning applications
+    - Producing rich front-end UI and efficient services
+    - Java, Python, Agile
+- company:
+    name: Lukoil
+    url: "https://www.lukoil.com/"
+    location: BLR
+    overview: One of the largest oil & gas vertical integrated companies in the world
+  positions:
+  - designation: Software Engineer
+    start: 2010
+    end: 2011
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Translating legacy business systems onto modern architecture, platforms and languages
+    - Optimise Oil & Gas operations with advanced software solutions
+    - Java, Big Data
+- company:
+    name: Radiovolna
+    url: "http://radiovolna.com.by/en"
+    location: BLR
+    overview: Milti-profile industrial enterprise working in the field of electrical equipments
+  positions:
+  - designation: Embedded Engineer
+    start: 2004
+    end: 2007
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Working on the full product life-cycle of software for embedded systems
+    - Play an integral role in the development of high-performance, real-time embedded product.
+    - C, C++, Micro-controllers
+    

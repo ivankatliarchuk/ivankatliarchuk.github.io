@@ -7,12 +7,12 @@ section:
   weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
-  hideTitle: true
+  hideTitle: false
 
 degrees:
 - name: BSc (Honours) Computing and IT
   icon: fa-graduation-cap
-  timeframe: 2020-...
+  timeframe: 2020-Present
   institution:
     name: Open University UK
     url: https://www.open.ac.uk/
