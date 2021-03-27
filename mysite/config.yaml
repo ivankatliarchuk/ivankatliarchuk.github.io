@@ -1,5 +1,5 @@
-baseURL: 'http://example.org/'
-title: IvanKa Welcome Page
+# baseURL: 'http://example.org/'
+title: IvanKa
 theme: toha
 languageCode: en-us
 defaultContentLanguage: en
@@ -36,7 +36,7 @@ languages:
 
 params:
   # Background image of the landing page
-  # background: /images/site/background.jpg
+  background: "images/author/my-desk.jpg"
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -50,7 +50,7 @@ params:
   gitRepo: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
@@ -58,4 +58,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
