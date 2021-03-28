@@ -34,6 +34,9 @@ languages:
   #   languageName: Russian
   #   weight: 2
 
+# Enable Google Analytics
+googleAnalytics: G-34BX8C1SJF
+
 params:
   # Background image of the landing page
   background: "images/author/my-desk.jpg"

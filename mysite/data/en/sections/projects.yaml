@@ -17,6 +17,8 @@ buttons:
   filter: "academic"
 - name: Accelerators
   filter: "blueprints"
+- name: Automation
+  filter: "automation"
 - name: AWS
   filter: "aws"
 - name: Docker&VM(s)
@@ -143,6 +145,15 @@ projects:
   repo: "https://github.com/ik-performance/performance-blueprint-project"
   summary: AWS NodeJs serverless blueprint.
   tags: ["accelerator","blueprints","performance"]
+
+# Automation
+
+- name: "Automation: mixed pipelines"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: "https://github.com/ik-automation/my-mixed-pipelines"
+  summary: "Pipeline examples: Jenkins, CodeBuild, Github Actions and etc"
+  tags: ["automation","pipelines","github actions", "codebuild", "jenkins"]
 
 # Infrastructure
 
