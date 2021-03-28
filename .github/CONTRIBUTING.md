@@ -25,7 +25,7 @@ Need an ICLA? Unsure if you are covered under an existing CCLA? Email [help@fino
 * [ ] Are you sure this is a bug or missing capability?
 
 ## Raising an Issue
-* Create your issue [here](https://github.com/{program name}/{project name}/issues/new).
+* Create your issue [here](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/issues/new).
 * New issues contain two templates in the description: bug report and enhancement request. Please pick the most appropriate for your issue, **then delete the other**.
   * Please also tag the new issue with either "Bug" or "Enhancement".
 * Please use [Markdown formatting](https://help.github.com/categories/writing-on-github/)
