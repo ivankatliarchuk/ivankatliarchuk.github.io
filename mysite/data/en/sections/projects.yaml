@@ -42,21 +42,13 @@ buttons:
 
 projects:
 # all
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby","fun"]
-
 - name: Dotfiles
   # logo: /images/sections/projects/kubernetes.png
   role: Owner
   timeline: "June 2020 - Present"
   repo: https://github.com/ivankatliarchuk/dotfiles
   summary: 🔧 .files, including ~/.macos — sensible hacker defaults for macOS.
-  tags: ["all","configuration","dotfiles","macos","os"]
+  tags: ["all","configuration","dotfiles","macos","os","personal"]
 
 - name: Configuration
   # logo: /images/sections/projects/kubernetes.png
@@ -64,7 +56,7 @@ projects:
   timeline: "December 2017 - Present"
   repo: https://github.com/ivankatliarchuk/configs #
   summary: Configuration files.
-  tags: ["all","configuration","os"]
+  tags: ["all","configuration","os","personal"]
 
 # Academic
 - name: Knowledge Base
@@ -72,7 +64,7 @@ projects:
   timeline: "March 2019 - Present"
   repo: https://github.com/ivankatliarchuk/knowledge-base
   summary: Public knowlege base.
-  tags: ["academic","documentation"]
+  tags: ["academic","documentation","personal"]
 
 - name: "Workshop: Terraform"
   role: Owner

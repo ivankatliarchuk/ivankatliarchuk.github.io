@@ -1,3 +1,9 @@
-copyright: © 2021 Copyright.
+copyright: © 2021 Ivan Ka.
 # Meta description for your site.  This will help the search engines to find your site.
-description: Ivan Ka main site with blogs and about.
+description: Portfolio and personal blog of Ivan Ka.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+# customMenus:
+# - name: Link
+#   url: https://toha-guides.netlify.app/posts/
