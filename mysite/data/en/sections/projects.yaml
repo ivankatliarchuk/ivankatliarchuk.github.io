@@ -1,0 +1,388 @@
+
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Academic
+  filter: "academic"
+- name: Accelerators
+  filter: "blueprints"
+- name: Infrastructure
+  filter: "infrastructure"
+- name: Docker & VM(s)
+  filter: "vms"
+- name: Serverless
+  filter: "serverless"
+- name: OS
+  filter: "os"
+- name: Python
+  filter: "python"
+- name: Golang
+  filter: "go"
+- name: NodeJS
+  filter: "nodejs"
+- name: Performance
+  filter: "performance"
+- name: PenTest
+  filter: "pentest"
+- name: AWS
+  filter: "aws"
+
+projects:
+# all
+- name: Nocode
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby","fun"]
+
+- name: Dotfiles
+  # logo: /images/sections/projects/kubernetes.png
+  role: Owner
+  timeline: "June 2020 - Present"
+  repo: https://github.com/ivankatliarchuk/dotfiles
+  summary: 🔧 .files, including ~/.macos — sensible hacker defaults for macOS.
+  tags: ["all","configuration","dotfiles","macos","os"]
+
+- name: Configuration
+  # logo: /images/sections/projects/kubernetes.png
+  role: Owner
+  timeline: "December 2017 - Present"
+  repo: https://github.com/ivankatliarchuk/configs #
+  summary: Configuration files.
+  tags: ["all","configuration","os"]
+
+# Academic
+- name: Knowledge Base
+  role: Owner
+  timeline: "March 2019 - Present"
+  repo: https://github.com/ivankatliarchuk/knowledge-base
+  summary: Public knowlege base.
+  tags: ["academic","documentation"]
+
+- name: "Workshop: Terraform"
+  role: Owner
+  timeline: "Dec 2019 - Present"
+  repo: https://github.com/ik-workshop/workshop-tfm-tgt
+  summary: AWS Workshop tutorials for Terraform
+  tags: ["academic","terraform","cloud","workshop","terraform","terragrunt"]
+
+- name: "Workshop: AWS Kubernetes"
+  role: Owner
+  timeline: "Dec 2019 - Present"
+  repo: https://github.com/ik-workshop/workshop-aws-kubernetes
+  summary: AWS Workshop tutorials for EKS, Terraform and Terragrunt
+  tags: ["academic","kubernetes","workshop","terraform","terragrunt"]
+
+- name: "Workshop: AWS EKS"
+  role: Contributor
+  timeline: "Dec 2018 - Present"
+  repo: https://github.com/ik-workshop/eks-workshop
+  summary: AWS Workshop tutorials for EKS.
+  tags: ["academic","kubernetes","workshop","eks"]
+
+- name: "Training: kubernetes"
+  role: Contributor
+  timeline: "Mar 2018 - Present"
+  repo: https://github.com/ik-learning/k8s-training
+  summary: My personal kubernetes training and certifications e.g., CKAD, CKA, CKAS
+  tags: ["academic","kubernetes","training"]
+
+# Accelerators
+
+- name: "Blueprint: terraform"
+  role: Owner
+  timeline: "Sep 2019 - Present"
+  repo: "https://github.com/terraform-module/terraform-module-blueprint"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["accelerator","blueprints"]
+
+- name: "Blueprint: workshop"
+  role: Owner
+  timeline: "Sep 2019 - Present"
+  repo: "https://github.com/ik-workshop/workshop-blueprint"
+  summary: Workshop showing you how to use blueprints.
+  tags: ["accelerator","blueprints","workshop"]
+
+- name: "Blueprint: vm(s)"
+  role: Owner
+  timeline: "Nov 2019 - Present"
+  repo: "https://github.com/ik-vms-dockers/vms-blueprint"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["accelerator","blueprints","vms"]
+
+- name: "Blueprint: serverless"
+  role: Owner
+  timeline: "Jan 2020 - Present"
+  repo: "https://github.com/ik-serverless/serverless-blueprint"
+  summary: Serverless blueprint.
+  tags: ["accelerator","blueprints","serverless"]
+
+- name: "Blueprint: aws serverless function"
+  role: Owner
+  timeline: "Jan 2020 - Present"
+  repo: "https://github.com/ik-serverless/aws-blueprint-function-nodejs"
+  summary: AWS NodeJs serverless blueprint.
+  tags: ["accelerator","blueprints","nodejs","serverless"]
+
+- name: "Blueprint: performance project"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: "https://github.com/ik-performance/performance-blueprint-project"
+  summary: AWS NodeJs serverless blueprint.
+  tags: ["accelerator","blueprints","performance"]
+
+# Infrastructure
+
+- name: "Infrastructure: my awesome kubernetes resources"
+  role: Owner
+  timeline: "Dec 2019 - Present"
+  repo: "https://github.com/ik-kubernetes/my-awesome-stuff-kuberntes"
+  summary: Awesome kubernetes resources.
+  tags: ["infrastructure","kubernetes"]
+
+- name: "Terraform: aws eks profile module"
+  role: Owner
+  timeline: "Dec 2019 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-eks-fargate-profile"
+  summary: Manages an AWS EKS Fargate Profile.
+  tags: ["infrastructure","kubernetes","aws","eks","terraform"]
+
+- name: "Terraform: aws cloudfront module"
+  role: Owner
+  timeline: "Aug 2020 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-cloudfront"
+  summary: AWS Cloudfront distribution module.
+  tags: ["infrastructure","terraform","aws","cloudfront"]
+
+- name: "Terraform: aws kms module"
+  role: Owner
+  timeline: "Nov 2020 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-kms"
+  summary: AWS KMS module.
+  tags: ["infrastructure","terraform","aws","kms"]
+
+- name: "Terraform: aws lambda module"
+  role: Owner
+  timeline: "Aug 2019 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-lambda"
+  summary: Deploy serverless function to AWS VPC.
+  tags: ["infrastructure","terraform","aws","lambda"]
+
+- name: "Terraform: aws enforce MFA module"
+  role: Owner
+  timeline: "Jun 2020 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-lambda"
+  summary: "Enforce MFA policy for AWS IAM groups and users"
+  tags: ["infrastructure","terraform","aws","iam", "mfa"]
+
+- name: "Terraform: kubernetes velero module"
+  role: Owner
+  timeline: "Dec 2019 - Present"
+  repo: "https://github.com/terraform-module/terraform-kubernetes-velero"
+  summary: Manages Kubernetes Velero deployment
+  tags: ["infrastructure","kubernetes","velero","terraform"]
+
+- name: "Terraform: aws proxy nginx module"
+  role: Owner
+  timeline: "Dec 2019 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-proxy-nginx"
+  summary: Deploy NGINX proxy with SSH
+  tags: ["infrastructure","terraform","nginx","proxy"]
+
+- name: "Terraform: helm release module"
+  role: Owner
+  timeline: "Aug 2019 - Present"
+  repo: "https://github.com/terraform-module/terraform-helm-release"
+  summary: "Wrapper for Terraform Helm provider"
+  tags: ["infrastructure","terraform","helm"]
+
+- name: "Terraform: aws IAM module"
+  role: Owner
+  timeline: "Dec 2018 - Present"
+  repo: "https://github.com/ik-cloud-iam/iam-by-role"
+  summary: "AWS IAM roles setup. TODO: move to terraform modules"
+  tags: ["infrastructure","terraform","aws","iam"]
+
+# Docker & VM(s)
+
+- name: "Docker: tools"
+  role: Owner
+  timeline: "Mar 2020 - Present"
+  repo: https://github.com/cloudkats/docker-tools
+  summary: Docker tooling for multiple use cases.
+  tags: ["vms","docker","tooling"]
+
+- name: "Docker: compose starter"
+  role: Owner
+  timeline: "Jan 2017 - Present"
+  repo: https://github.com/ik-vms-dockers/docker-compose-starter
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["vms","docker","dcoker-compose"]
+
+- name: "VM(s): boxes"
+  role: Owner
+  timeline: "Sep 2019 - Present"
+  repo: https://github.com/ik-vms-dockers/vm-boxes
+  summary: Virtual machines used in hobbies and development environment(s). Packer, Vagrant
+  tags: ["vms","vagrant","packer"]
+
+- name: "VM(s): vagrant"
+  role: Owner
+  timeline: "Jan 2017 - Present"
+  repo: https://github.com/ik-vms-dockers/vms-vagrant
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  tags: ["vms","vagrant","packer"]
+
+- name: "VM(s): factory"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: https://github.com/ik-vms-dockers/vms-factory
+  summary: Assembling vms here.
+  tags: ["vms","vagrant", "packer", "ubuntu"]
+
+- name: "VM(s): provision"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: https://github.com/ik-vms-dockers/vms-provision
+  summary: Assembling vms here.
+  tags: ["vms","vagrant","packer","ubuntu","kali","whonix"]
+
+# OS
+
+- name: "OS: linux, mac & windows scripts"
+  role: Owner
+  timeline: "Jan 2018 - Present"
+  repo: https://github.com/ik-scripting/scripts
+  summary: "A collection of (mostly POSIX compatible) shell scripts"
+  tags: ["os","scripts","macos","linux","unix"]
+
+- name: "OS: makefiles"
+  role: Owner
+  timeline: "Jan 2019 - Present"
+  repo: https://github.com/ik-scripting/makefiles
+  summary: Collection of directives used by a make build automation tool to generate a target/goal
+  tags: ["os","scripts","macos","linux","unix"]
+
+# Golang
+
+- name: "Go: hackerrank challanges"
+  # logo: /images/sections/projects/kubernetes.png
+  role: Owner
+  timeline: "Mar 2018 - Present"
+  repo: https://github.com/ik-learning/hrank-go
+  summary: "Golang remote interview training & challanges"
+  tags: ["academic","go","training"]
+
+# Serverless
+
+- name: "NodeJS: protect IAM secrets"
+  role: Owner
+  timeline: "Sep 2019 - Present"
+  repo: "https://github.com/ik-serverless/aws-protect-iam-secrets"
+  summary: "AWS protect IAM secrets. Delete when expired."
+  tags: ["nodejs","serverless","aws"]
+
+- name: "NodeJS: SNS to Slack subscriber"
+  role: Owner
+  timeline: "Sep 2019 - Present"
+  repo: "https://github.com/ik-serverless/aws-sns-slack-subcriber-nodejs"
+  summary: "AWS SNS slack subscriber implemented in nodejs."
+  tags: ["nodejs","serverless","aws"]
+
+- name: "NodeJS: AWS Step function monitor"
+  role: Owner
+  timeline: "Mar 2019 - Present"
+  repo: "https://github.com/ik-serverless/aws-step-function-monitor"
+  summary: "AWS Step function Cloudwatch monitor"
+  tags: ["nodejs","serverless","aws","typescript"]
+
+- name: "NodeJS: AWS Cloudwatch logs strem cleaner"
+  role: Owner
+  timeline: "Setp 2019 - Present"
+  repo: "https://github.com/ik-serverless/aws-cloudwatch-streams-clean"
+  summary: "A small module to streamline some of the cleanup operations required when when working with AWS CloudWatch logs"
+  tags: ["nodejs","serverless","aws"]
+
+- name: "NodeJS: personal tutorials"
+  role: Owner
+  timeline: "Feb 2017 - Present"
+  repo: "https://github.com/ik-learning/node-tutorial"
+  summary: "NodeJS javascript screencast"
+  tags: ["nodejs","tutorial"]
+
+# Python
+
+- name: "Python: national lottary probably winner"
+  role: Owner
+  timeline: "Jul 2020 - Present"
+  repo: "https://github.com/ik-python/probable-winner"
+  summary: "Playing with national lottery"
+  tags: ["python"]
+
+- name: "Python: hackerrank algorithms"
+  role: Owner
+  timeline: "Nov 2016 - Present"
+  repo: "https://github.com/ik-python/hrank-algorithms"
+  summary: "Hackerrank algorithm solutions in Python"
+  tags: ["python","hrank","algorithms"]
+
+- name: "Python: AWS serverless networking debug"
+  role: Owner
+  timeline: "Setp 2019 - Present"
+  repo: "https://github.com/ik-serverless/aws-serverless-debug"
+  summary: "Serverless networking debug"
+  tags: ["python","serverless","aws","debug"]
+
+# AWS
+
+- name: "Cloud Init: examples"
+  role: Owner
+  timeline: "May 2019 - Present"
+  repo: "https://github.com/ik-cloud/cloud-init-examples"
+  summary: "Industry standard multi-distribution method for cross-platform cloud instance initialization"
+  tags: ["all","cloud init", "aws"]
+
+# Performance
+
+- name: "Blueprint: artilerry project"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: "https://github.com/ik-performance/artillery-blueprint"
+  summary: "Artillery is a modern load testing and smoke testing solution"
+  tags: ["accelerator","blueprints","performance","argillery","aws"]
+
+- name: "Blueprint: k8 project"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: "https://github.com/ik-performance/k6-blueprint"
+  summary: "k6 is an open-source load testing tool for API performance testing"
+  tags: ["accelerator","blueprints","performance","k6"]
+
+- name: "Blueprint: gatling project"
+  role: Owner
+  timeline: "May 2020 - Present"
+  repo: "https://github.com/ik-performance/gatling-blueprint"
+  summary: "Gatling is an open-source load testing tool for web applications, designed for DevOps and CI"
+  tags: ["accelerator","blueprints","performance","gatling","scala"]
+
+# Pentest
+
+- name: "Pentesting: lerning examples"
+  role: Owner
+  timeline: "Jan 2020 - Present"
+  repo: "https://github.com/ik-learning/learn-pentest"
+  summary: "Learn penetsing practices"
+  tags: ["pentest","python","ruby","academic"]
