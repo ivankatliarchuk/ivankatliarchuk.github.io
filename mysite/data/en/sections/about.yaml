@@ -43,7 +43,7 @@ softSkills:
   percentage: 100
   color: orange
 - name: Leadership
-  percentage: 89
+  percentage: 85
   color: blue
 - name: Automation
   percentage: 100
@@ -54,7 +54,3 @@ softSkills:
 - name: Clouds
   percentage: 100
   color: sky
-# you can also provide color code instead of pre-defined color name
-# - name: Example 1
-#   percentage: 75
-#   color: "#00adb5"

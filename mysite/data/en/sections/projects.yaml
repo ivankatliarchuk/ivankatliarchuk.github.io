@@ -17,26 +17,26 @@ buttons:
   filter: "academic"
 - name: Accelerators
   filter: "blueprints"
-- name: Infrastructure
-  filter: "infrastructure"
-- name: Docker & VM(s)
+- name: AWS
+  filter: "aws"
+- name: Docker&VM(s)
   filter: "vms"
-- name: Serverless
-  filter: "serverless"
-- name: OS
-  filter: "os"
-- name: Python
-  filter: "python"
 - name: Golang
   filter: "go"
+- name: Infrastructure
+  filter: "infrastructure"
 - name: NodeJS
   filter: "nodejs"
+- name: OS
+  filter: "os"
 - name: Performance
   filter: "performance"
 - name: PenTest
   filter: "pentest"
-- name: AWS
-  filter: "aws"
+- name: Python
+  filter: "python"
+- name: Serverless
+  filter: "serverless"
 
 projects:
 # all
