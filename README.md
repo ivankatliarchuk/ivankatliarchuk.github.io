@@ -5,6 +5,10 @@
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/ivankatliarchuk.github.io/github-pages-deploy/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/ivankatliarchuk.github.io/check-markdown-links/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
 
+![Repository Size](https://img.shields.io/github/repo-size/ivankatliarchuk/ivankatliarchuk.github.io)
+![Lines of Codes](https://img.shields.io/tokei/lines/github/ivankatliarchuk/ivankatliarchuk.github.io)
+
+
 ## TODO
 
 - [X] Setup Github Actions https://github.com/peaceiris/actions-hugo
