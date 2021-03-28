@@ -11,65 +11,43 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing Kubernetes and any type of a workload."
-  url: "https://kubernetes.io/"
-
 - name: Cloud Computing
   logo: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "I work with AWS and GCE on daily basis and used to work with Azure."
 
-- name: Docker
-  logo: "images/skills/kubernetes.png"
-  summary: "Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Systems Architecture
+  logo: "images/skills/architecture/sa-10.png"
+  summary: "Expert in Software and System Architecture. Services, Microservices and Serverless architecture."
+
+- name: "DevSecOps"
+  logo: "images/skills/devops/dso-7.png"
+  summary: "I find delivering advanced technology coupled with automation to people of all skill levels to be absolutely fantastic."
+  url: "https://www.devsecops.org/"
+
+- name: Programming
+  logo: "images/skills/code/code-6.png"
+  summary: "Proficient in Python, Shell, C#, NodeJS, Java, Golang and C for firmware development."
 
 - name: "Logging and Monitoring"
-  logo: "images/skills/kubernetes.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  logo: "images/skills/monitoring/mon-2.png"
+  summary: "Expert in fixing the cause, not the symptom. Day 2 monitoring and alerting solutions expert."
   url: "https://prometheus.io/"
 
+- name: "Infrastructure as Code"
+  logo: "images/skills/ioc/ioc-4.png"
+  summary: "Managing services in the cloud and any scale. I can help you with writing IaC, troubleshooting your code and setting up your workflows and IaC tools to be efficient."
+  url: "https://en.wikipedia.org/wiki/Infrastructure_as_code"
+
+- name: Kubernetes
+  logo: "images/skills/kubernetes.png"
+  summary: "I have experience with architecting and running on-prem/cloud HA K8s clusters. Cluster security, service meches and etc"
+  url: "https://kubernetes.io/"
+
 - name: Linux and MacOS
-  # logo: "images/skills/kubernetes.png"
-  summary: "Solid understanding of the design and maintenance of Linux systems."
+  logo: "images/skills/os/os-5.png"
+  summary: "I have been using Linux since before you heard of a modem."
 
 - name: Git
-  logo: "images/skills/kubernetes.png"
+  logo: "images/skills/git.png"
   summary: "Experienced with git-based development e.g, trunk based, feature flags, git flow and etc "
   url: "https://git-scm.com/"
-
-- name: Go
-  logo: "images/skills/kubernetes.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: NodeJS
-  logo: "images/skills/kubernetes.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Python
-  logo: "images/skills/kubernetes.png"
-  summary: "Knowledgeable about writing Python scripts and command line utilities. Capable of writing scalable, testable, and maintainable products."
-  url: "https://golang.org/"
-
-- name: Java
-  logo: "images/skills/kubernetes.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: C
-  logo: "images/skills/kubernetes.png"
-  summary: "Experienced in writing low-level routines and modules for hardware using C."
-  url: https://en.wikipedia.org/wiki/C_(programming_language)
-
-- name: React
-  # logo: "/images/sections/skills/react.png"
-  summary: "Have experience developing and automating deployment of a web app with React."
-  url: "https://ja.reactjs.org/"
-
-- name: Flutter
-  # logo: "/images/sections/skills/flutter.png"
-  summary: "Experienced with iOS / Android application development. App automation and distribution"
-  url: "https://flutter.dev/"
