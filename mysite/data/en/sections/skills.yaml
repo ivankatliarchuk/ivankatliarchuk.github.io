@@ -15,6 +15,10 @@ skills:
   logo: "images/skills/cloud.png"
   summary: "I work with AWS and GCE on daily basis and used to work with Azure."
 
+- name: Consulting
+  logo: "images/skills/consulting/con-2.png"
+  summary: "I work with clients, big and small. Very much user centric and client focus. Tools come and go. It's more about right mindset, capabilities, skills and continuous learning."
+
 - name: Systems Architecture
   logo: "images/skills/architecture/sa-10.png"
   summary: "Expert in Software and System Architecture. Services, Microservices and Serverless architecture."
@@ -47,7 +51,7 @@ skills:
   logo: "images/skills/os/os-5.png"
   summary: "I have been using Linux since before you heard of a modem."
 
-- name: Git
-  logo: "images/skills/git.png"
-  summary: "Experienced with git-based development e.g, trunk based, feature flags, git flow and etc "
-  url: "https://git-scm.com/"
+# - name: Git
+#   logo: "images/skills/git.png"
+#   summary: "Experienced with git-based development e.g, trunk based, feature flags, git flow and etc "
+#   url: "https://git-scm.com/"
