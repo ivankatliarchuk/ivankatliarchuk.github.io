@@ -77,7 +77,7 @@ experiences:
     location: UK, part-time contractor
     overview: Providing customers the freedom to innovate and run their businesses with minimal friction
   positions:
-  - designation: Security Engineer
+  - designation: Security Contractor
     start: May 2011
     end: Feb 2015
     # give some points about what was your responsibilities at the company.
@@ -155,4 +155,3 @@ experiences:
     - Working on the full product life-cycle of software for embedded systems
     - Play an integral role in the development of high-performance, real-time embedded product.
     - C, C++, Micro-controllers
-    
