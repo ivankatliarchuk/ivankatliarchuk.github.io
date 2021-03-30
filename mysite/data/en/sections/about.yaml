@@ -7,6 +7,8 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
+resume: "files/resume.pdf"
+
 # your designation
 designation: Senior DevOps & SRE
 # your company information
