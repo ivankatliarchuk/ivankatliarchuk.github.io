@@ -71,12 +71,12 @@ milestones:
 # Collaborators: give specific users access to this repository.
 # See https://developer.github.com/v3/repos/collaborators/#add-user-as-a-collaborator for available options
 collaborators:
-  - username: hubot
-    permission: pull
-  - username: dependabot
-    permission: pull
-  - username: renovate-bot
-    permission: pull
+  # - username: hubot
+  #   permission: pull
+  # - username: dependabot
+  #   permission: pull
+  # - username: renovate-bot
+  #   permission: pull
 
     # Note: Only valid on organization-owned repositories.
     # The permission to grant the collaborator. Can be one of:
