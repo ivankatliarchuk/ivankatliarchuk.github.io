@@ -9,6 +9,9 @@ jobs:
   update_release_draft:
     runs-on: ubuntu-latest
     steps:
-      - uses: release-drafter/release-drafter@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: release-drafter/release-drafter@master
+      with:
+        publish: true
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
