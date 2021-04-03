@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: World University Sailing Championship 2018
+  # image: images/sections/achievements/WUSC.jpg
+  summary: Represented Japan and came 4th place out of 19 teams in World University Sailing Championship 2018 held in Cherbourg, France.
+- title: Wakayama Cup 2019
+  # image: images/sections/achievements/wakayamacup2019.jpg
+  summary: Champion in Wakayama Cup 2019 held in Wakayama Sailing Center.
+- title: U25 Youth Match Race Championship 2018
+  # image: images/sections/achievements/u25match2018.png
+  summary: Champion in U25 Youth Match Race Championship 2018 held in Tokai marina.
