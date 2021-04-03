@@ -367,7 +367,7 @@ projects:
   summary: "Artillery is a modern load testing and smoke testing solution"
   tags: ["accelerator","blueprints","performance","argillery","aws"]
 
-- name: "Blueprint: k8 project"
+- name: "Blueprint: 6 project"
   role: Owner
   timeline: "May 2020 - Present"
   repo: "https://github.com/ik-performance/k6-blueprint"
