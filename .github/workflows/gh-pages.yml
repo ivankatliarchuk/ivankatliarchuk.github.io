@@ -3,7 +3,7 @@ name: github-pages-deploy
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - $default-branch  # Set a branch to deploy
 
 env:
   SITE_PATH: mysite

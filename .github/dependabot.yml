@@ -3,6 +3,26 @@
 version: 2
 updates:
 # Update the git submodules
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: '11:00'
+    timezone: UK
+  labels:
+  - dependencies
+  commit-message:
+    prefix: deps
+
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: "daily"
+    time: '11:00'
+    timezone: UK
+  commit-message:
+    prefix: ci
+
 - package-ecosystem: "gitsubmodule"
   directory: "/"
   schedule:
@@ -10,10 +30,3 @@ updates:
   labels:
   - "dependencies"
   - "automerge"
-
-- package-ecosystem: "github-actions"
-  directory: "/"
-  schedule:
-    interval: "daily"
-  commit-message:
-    prefix: ci

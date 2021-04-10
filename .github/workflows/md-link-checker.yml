@@ -3,7 +3,7 @@ name: check-markdown-links
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - $default-branch  # Set a branch to deploy
 
 jobs:
   markdown-link-check:
