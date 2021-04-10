@@ -100,7 +100,7 @@ projects:
   role: Owner
   timeline: "Mar 2021 - Present"
   repo: https://github.com/ivankatliarchuk/.github
-  tags: ["accelerator","github", "management"]
+  tags: ["accelerator","github", "management","blueprints"]
 
 - name: "Base blueprint"
   role: Owner
