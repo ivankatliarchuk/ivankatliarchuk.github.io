@@ -4,6 +4,9 @@
 
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/ivankatliarchuk.github.io/github-pages-deploy/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/ivankatliarchuk.github.io/check-markdown-links/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
+[![owasp-zaproxy-baseline][owasp-zaproxy-baseline-badge]][owasp-zaproxy-baseline-status]
+[![owasp-zaproxy-full][owasp-zaproxy-full-badge]][owasp-zaproxy-full-status]
+[![lighthouse][lighthouse-badge]][lighthouse-status]
 
 ![Repository Size](https://img.shields.io/github/repo-size/ivankatliarchuk/ivankatliarchuk.github.io)
 ![Lines of Codes](https://img.shields.io/tokei/lines/github/ivankatliarchuk/ivankatliarchuk.github.io)
@@ -24,3 +27,11 @@
 
 - [Yaml to Toml](https://toolkit.site/format.html)
 - [Yaml to TOML](https://www.convertsimple.com/convert-yaml-to-toml/)
+
+<!-- resources -->
+[lighthouse-badge]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.lighthouse.yml/badge.svg
+[lighthouse-status]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.lighthouse.yml
+[owasp-zaproxy-baseline-badge]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.zap-baseline.yml/badge.svg
+[owasp-zaproxy-baseline-status]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.zap-baseline.yml
+[owasp-zaproxy-full-badge]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.zap-full.yml/badge.svg
+[owasp-zaproxy-full-status]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.zap-full.yml

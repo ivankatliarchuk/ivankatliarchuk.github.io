@@ -42,6 +42,7 @@ jobs:
 
       - name: handle lighthouse check results
         uses: foo-software/lighthouse-check-status-action@master
+        if: always()
         id: status
         with:
           lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
@@ -53,6 +54,7 @@ jobs:
 
       - name: results
         id: results
+        if: always()
         run: |
           echo "::set-output name=accessibility::$(cat _help/results.json | jq '.[] | .scores.accessibility')"
           echo "::set-output name=bestPractices::$(cat _help/results.json | jq '.[] | .scores.bestPractices')"
@@ -64,6 +66,7 @@ jobs:
       # https://github.com/JasonEtco/actions-toolkit#toolscontext
       - name: create issue from file
         uses: JasonEtco/create-an-issue@v2.5.0
+        if: always()
         id: create-issue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

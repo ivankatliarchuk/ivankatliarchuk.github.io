@@ -96,7 +96,7 @@ projects:
 
 # Accelerators
 
-- name: Default community health files
+- name: "Default community health files"
   role: Owner
   timeline: "Mar 2021 - Present"
   repo: https://github.com/ivankatliarchuk/.github
