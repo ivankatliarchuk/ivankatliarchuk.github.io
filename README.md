@@ -12,10 +12,6 @@
 ![Repository Size](https://img.shields.io/github/repo-size/ivankatliarchuk/ivankatliarchuk.github.io)
 ![Lines of Codes](https://img.shields.io/tokei/lines/github/ivankatliarchuk/ivankatliarchuk.github.io)
 
-## TODO
-
-- [X] Setup [hugo github actions](https://github.com/peaceiris/actions-hugo)
-
 ## Themes
 
 - [Toha](https://github.com/hugo-toha/toha)
@@ -27,6 +23,10 @@
 
 - [Yaml to Toml](https://toolkit.site/format.html)
 - [Yaml to TOML](https://www.convertsimple.com/convert-yaml-to-toml/)
+
+## TODO
+
+- [X] Setup [hugo github actions](https://github.com/peaceiris/actions-hugo)
 
 <!-- resources -->
 [lighthouse-badge]: https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/scan.lighthouse.yml/badge.svg
