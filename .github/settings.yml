@@ -12,6 +12,8 @@ repository:
   has_projects: false
   has_wiki: false
   has_downloads: false
+  has_pages: true
+  is_template: false
   default_branch: master
   allow_squash_merge: true
   allow_merge_commit: true
