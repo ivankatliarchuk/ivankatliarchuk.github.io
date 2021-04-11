@@ -1,8 +1,8 @@
 ---
 title: "Lightouse weekly report"
-about: 'Are your scores flaky? You can run audits on Foo for stability and maintain a historical record! '
+about: 'Are your scores flaky? You can run audits on Foo for stability and maintain a historical record!'
 assignees: ivankatliarchuk
-labels: performance,seo
+labels: performance
 ---
 
 ## Lighthouse Audit

@@ -78,7 +78,7 @@ jobs:
           TITLE: 'Lighthosue performance'
         with:
           filename: ${{ env.TEMPLATE }}
-          assignees: ${{ github.actor }}
+          assignees: ${{ github.repository_owner }}
           update_existing: true
 
       - run: 'echo Created issue number ${{ steps.create-issue.outputs.number }}'
