@@ -4,14 +4,16 @@ on:
   push:
     branches:
       - $default-branch
+      - master
+      - main
 
 jobs:
   update_release_draft:
     runs-on: ubuntu-latest
     steps:
-    - uses: release-drafter/release-drafter@master
-      with:
-        publish: false
-        prerelease: true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: release-drafter/release-drafter@master
+        with:
+          publish: false
+          prerelease: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
