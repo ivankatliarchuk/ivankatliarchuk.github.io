@@ -3,7 +3,7 @@ name: owasp-zaproxy-full
 on:
   workflow_dispatch:
   push:
-    branches: [  $default-branch, gh-pages ]
+    branches: [ $default-branch, gh-pages ]
   schedule:
     - cron: '0 10 * * 0'
 

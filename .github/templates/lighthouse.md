@@ -5,12 +5,10 @@ assignees: ivankatliarchuk
 labels: performance
 ---
 
-## Lighthouse Audit
-
+# Lighthouse Audit
 
 | Accessibility            | Best Practices          |   Performance        | Progressive Web App          | SEO            |
 |:------------------------:|:-----------------------:|:--------------------:|:----------------------------:|:--------------:|
 | {{ env.ACCESSIBILITY }}  | {{ env.BEST_PRACTICES}} | {{ env.PERFORMANCE}} | {{ env.PROGRESSIVE_WEBAPP }} | {{ env.SEO }}  |
-
 
 **Updated: {{ date | date('YYYY Do') }} of {{ date | date('MMMM') }}**

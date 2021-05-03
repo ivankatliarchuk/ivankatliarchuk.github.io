@@ -2,5 +2,5 @@
 extends: relaxed
 rules:
   line-length:
-    max: 256
+    max: 500
     level: warning

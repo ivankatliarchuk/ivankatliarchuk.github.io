@@ -5,7 +5,7 @@ on:
     branches: [$default-branch, gh-pages]
   pull_request:
     branches: [$default-branch, gh-pages]
-    types: [opened,assigned,synchronize]
+    types: [opened, assigned, synchronize]
   schedule:
     - cron: '0 10 * * 2'
 
