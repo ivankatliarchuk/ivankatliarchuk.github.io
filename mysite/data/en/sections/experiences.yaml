@@ -25,7 +25,7 @@ experiences:
     - Developing solutions at an enterprise level
     - Security, Disaster Recovery, Automation, Infrastructure as code
     - Managing and automating complex platforms/applications on AWS, GCP or Azure
-    - Node, Golang, Python, AWS, GCP, ArgoCD, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
+    - Golang, Python, NodeJS, AWS, GCP, ArgoCD, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
 - company:
     name: Armakuni
     url: "https://www.armakuni.com"
@@ -41,7 +41,7 @@ experiences:
     - Digital transformation
     - Private and public clouds automation
     - Infrastructure improvements, testing & security hardenin
-    - Java, Node, Golang, Python, AWS, Azure, GCP, Microservices, Serverless, DevOps, Agile
+    - Java, NodeJS, Golang, Python, AWS, Azure, GCP, Microservices, Serverless, DevOps, Agile
 - company:
     name: Hermes Group
     url: "https://www.hermesworld.com"
@@ -56,7 +56,7 @@ experiences:
     responsibilities:
     - Lead backend and infrastructure team
     - Serverless infrastructure using pipelines, configuration as code, containers on multiple cloud platforms as well as on-premise
-    - Java, Android, NodeJS, AWS, MongoDB, Microservices, Serverless DevOps, Agile
+    - Java, Android, NodeJSJS, AWS, MongoDB, Microservices, Serverless DevOps, Agile
 - company:
     name: MHR
     url: "https://mhrglobal.com"
@@ -98,7 +98,7 @@ experiences:
     responsibilities:
     - Inspire customers and peers to solve difficult problems with innovative and novel solutions, leveraging an excellent set of technical competences.
     - Recommend migration strategies, enterprise architectures, migration tools, and cloud infrastructure required to successfully implement a complete solution using best practices
-    - C#, Java, Python, Node, AWS, Azure, DevSecOps, Agile
+    - C#, Java, Python, NodeJS, AWS, Azure, DevSecOps, Agile
 - company:
     name: Boots Care Support Pharmacy
     url: "https://www.boots-uk.com/about-boots-uk/healthcare/pharmacy/care-services"
@@ -112,7 +112,7 @@ experiences:
     responsibilities:
     - Maintain the technical intellectual property in the Integration tooling and automation space
     - Automating deployment, scaling, and management, both in the cloud (AWS, Azure) or on-premise.
-    - Java, Python, Node, DevOps, Agile
+    - Java, Python, NodeJS, DevOps, Agile
 - company:
     name: Wilkinson Hardware Stores
     url: "https://corporate.wilko.com"
