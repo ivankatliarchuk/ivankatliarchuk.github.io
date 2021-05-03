@@ -18,13 +18,10 @@ experiences:
   positions:
   - designation: Senior DevOps & SRE
     start: Dec 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Developing solutions at an enterprise level
-    - Security, Disaster Recovery, Automation, Infrastructure as code
-    - Managing and automating complex platforms/applications on AWS, GCP or Azure
+    - Engineering solutions for projects of different size
+    - Security, Disaster Recovery, Automation, Infrastructure as code, Operations
+    - Managing and automating complex platforms & applications on hybrid clouds (AWS, GCP & Azure)
     - Golang, Python, NodeJS, AWS, GCP, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
 - company:
     name: Armakuni
