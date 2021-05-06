@@ -75,7 +75,7 @@ experiences:
     overview: Providing customers the freedom to innovate and run their businesses with minimal friction
   positions:
   - designation: Security Contractor
-    start: May 2011
+    start: May 2012
     end: Feb 2015
     # give some points about what was your responsibilities at the company.
     responsibilities:
@@ -83,13 +83,12 @@ experiences:
     - Vulnerability identification, remediation, and management reporting processes with IT squads and suppliers to manage risks/prevent
     - Java, Python, AWS, DevSecOps, Agile
 - company:
-    name: Contractor on different projects
-    url: "https://google.com"
+    name: 'Software Engineer & DevSecOps Contractor'
     location: UK, USA, Remote
     overview: Public and Private sectors
   positions:
   - designation: Software & Infrastructure Engineer
-    start: May 2011
+    start: May 2012
     end: Feb 2015
     # give some points about what was your responsibilities at the company.
     responsibilities:
