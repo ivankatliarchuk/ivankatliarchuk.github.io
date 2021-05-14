@@ -7,7 +7,7 @@ updates:
   - package-ecosystem: pip
     directory: "/"
     schedule:
-      interval: daily
+      interval: weekly
     labels:
       - ":game_die: dependencies"
       - ":robot: bot"
@@ -20,7 +20,7 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: weekly
     commit-message:
       prefix: chore
       include: "scope"
@@ -33,7 +33,7 @@ updates:
   - package-ecosystem: "gitsubmodule"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: weekly
     labels:
       - ":game_die: dependencies"
       - ":bell: automerge"
@@ -53,8 +53,6 @@ updates:
     labels:
       - ":game_die: dependencies"
       - ":robot: bot"
-      - "go"
-      - "misc"
     reviewers:
       - ivankatliarchuk
 
@@ -71,10 +69,10 @@ updates:
     reviewers:
       - ivankatliarchuk
 
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
-      interval: "daily"
+      interval: weekly
     commit-message:
       prefix: chore
       include: "scope"
