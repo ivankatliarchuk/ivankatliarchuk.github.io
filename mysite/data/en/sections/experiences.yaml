@@ -22,7 +22,7 @@ experiences:
     - Engineering solutions for projects of different size
     - Security, Disaster Recovery, Automation, Infrastructure as code, Operations
     - Managing and automating complex platforms & applications on hybrid clouds (AWS, GCP & Azure)
-    - Golang, Python, NodeJS, AWS, GCP, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
+    - Golang, Python, NodeJS, AWS, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
 - company:
     name: Armakuni
     url: "https://www.armakuni.com"
@@ -38,7 +38,7 @@ experiences:
     - Digital transformation
     - Private and public clouds automation
     - Infrastructure improvements, testing & security hardenin
-    - Golang, Python, Java, NodeJS, AWS, Azure, GCP, Microservices, Serverless, DevOps, Agile
+    - Golang, Python, Java, NodeJS, AWS, GCP, Microservices, Serverless, DevOps, Agile
 - company:
     name: Hermes Group
     url: "https://www.hermesworld.com"
