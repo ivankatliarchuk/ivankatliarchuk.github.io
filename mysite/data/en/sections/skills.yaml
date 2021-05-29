@@ -13,7 +13,7 @@ section:
 skills:
 - name: Systems Architecture
   logo: "images/skills/architecture/sa-10.png"
-  summary: "Expert in Software and System Architecture. Services, Microservices and Serverless architecture."
+  summary: "Expert in Software and System & Platform Architecture. Services, Microservices and Serverless architecture."
 
 - name: Consulting
   logo: "images/skills/consulting/con-5.png"
