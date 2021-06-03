@@ -20,7 +20,7 @@ experiences:
     start: Dec 2019
     responsibilities:
     - Engineering solutions for projects of different size
-    - Architecture & DevSecOps leadership
+    - Architecture, DevSecOps and SRE leadership
     - Security, Disaster Recovery, Automation, Infrastructure as code, Operations
     - Managing and automating complex platforms & multy tenant applications on hybrid clouds
     - Golang, Python, NodeJS, AWS, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
@@ -83,7 +83,7 @@ experiences:
     - Vulnerability, incident response, threat hunting, and monitoring platform
     - Vulnerability identification, remediation, and management reporting processes with IT squads and suppliers to manage risks/prevent
     - Hardening IT systems against real threats & Cloud Accounts Audits
-    - Java, Python, AWS, DevSecOps, Honey Pots, Audits, CIS, SOC2, PCI-DSS, HIPPA
+    - Java, Python, AWS, DevSecOps, Honeypots & Firewalls, Audits, CIS, SOC2, PCI-DSS, HIPPA
 - company:
     name: 'Software Engineer & DevSecOps Contractor'
     location: UK, USA, Remote
