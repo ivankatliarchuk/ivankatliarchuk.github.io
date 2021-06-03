@@ -19,9 +19,9 @@ skills:
   logo: "images/skills/consulting/con-5.png"
   summary: "I work with clients, big and small. Very much user centric and client focus. Tools come and go. It's more about right mindset, capabilities, skills and continuous learning."
 
-- name: "DevSecOps"
+- name: "DevSecOps & SRE"
   logo: "images/skills/devops/dso-7.png"
-  summary: "I find delivering advanced technology coupled with automation to people of all skill levels to be absolutely fantastic."
+  summary: "I find delivering advanced technology and software hardening to unexpected events coupled with automation to people of all skill levels to be absolutely fantastic."
   url: "https://www.devsecops.org/"
 
 - name: "Operations"
