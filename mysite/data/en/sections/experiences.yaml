@@ -82,7 +82,8 @@ experiences:
     responsibilities:
     - Vulnerability, incident response, threat hunting, and monitoring platform
     - Vulnerability identification, remediation, and management reporting processes with IT squads and suppliers to manage risks/prevent
-    - Java, Python, AWS, DevSecOps, Agile
+    - Hardening IT systems against real threats & Cloud Accounts Audits
+    - Java, Python, AWS, DevSecOps, Honey Pots, Audits, CIS, SOC2, PCI-DSS, HIPPA
 - company:
     name: 'Software Engineer & DevSecOps Contractor'
     location: UK, USA, Remote
