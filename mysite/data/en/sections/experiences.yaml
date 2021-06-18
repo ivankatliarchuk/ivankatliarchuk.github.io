@@ -11,7 +11,7 @@ section:
 experiences:
 - company:
     name: "Nearform - External Contractor to McKinsey"
-    url: "https://www.nearform.com"
+    url: "https://www.mckinsey.com/business-functions/transformation/how-we-help-clients/wave/overview"
     location: UK, Europe, Remote
     overview: Global software consultancy, enabling our clients to deliver real and lasting business impact through design and technology.
   positions:
@@ -21,8 +21,8 @@ experiences:
     - Engineering solutions for projects of different size
     - Architecture, DevSecOps and SRE leadership
     - Security, Disaster Recovery, Automation, Infrastructure as code, Operations
-    - Managing and automating complex platforms & multy tenant applications on hybrid clouds
-    - Golang, Python, NodeJS, AWS, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
+    - Managing and automating platform in multy tenant environment and hybrid clouds
+    - Python, NodeJS, Golang, AWS, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
 - company:
     name: Armakuni
     url: "https://www.armakuni.com"
