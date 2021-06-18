@@ -10,10 +10,9 @@ section:
 
 experiences:
 - company:
-    name: Nearform
+    name: "Nearform - External Contractor to McKinsey"
     url: "https://www.nearform.com"
     location: UK, Europe, Remote
-    # company overview
     overview: Global software consultancy, enabling our clients to deliver real and lasting business impact through design and technology.
   positions:
   - designation: Senior DevOps & SRE
