@@ -11,7 +11,7 @@ section:
 # Your achievements achievements
 achievements:
 - title: McKinsey platform by the numbers (Senior DevOps & SRE)
-  image: /images/achievements/platform-by-numbers.png
+  image: /images/achievements/platform-by-numbers.640.png
   summary: Platform solution that focuses your organization on impact, not just activities
 - title: RBS automation and DevOps practices (DevOps SME)
   image: /images/achievements/rbs-cost-cuts.png
