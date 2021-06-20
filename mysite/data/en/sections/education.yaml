@@ -22,6 +22,7 @@ degrees:
     courses:
     - name: Software engineering (TM354)
     - name: Developing concurrent distributed systems (M362)
+    - name: Web, mobile and cloud technologies (TM352)
 - name: Diploma of Higher Education in Computing and IT
   icon: fa-graduation-cap
   timeframe: 2013-2018

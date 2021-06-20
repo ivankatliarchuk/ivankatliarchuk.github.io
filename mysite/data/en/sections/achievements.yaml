@@ -10,6 +10,21 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: McKinsey Platform numbers (2019-2021)
+- title: McKinsey platform by the numbers (Senior DevOps & SRE)
   image: /images/achievements/platform-by-numbers.png
   summary: Platform solution that focuses your organization on impact, not just activities
+- title: RBS automation and DevOps practices (DevOps SME)
+  image: /images/achievements/rbs-cost-cuts.png
+  summary: A big technology modernization drive since its government bailout after the 2007 banking crisis.
+- title: Hermes Print-in-Store (Senior Engineer & DevOPs)
+  image: /images/achievements/hermes-no-printer.png
+  summary: Solution that provides easy-and-convinient, cheap and hassle free alternative to a Post Office
+- title: Hermes and Starship Technologies (Senior Engineer)
+  image: /images/achievements/hermes-robots.png
+  summary: Hermes and Starship Technologies platform to test deliery robots in London
+- title: Office for National Statistics Platform (Platform Lead)
+  image: /images/achievements/ons-platform.png
+  summary: Capability uplift in awerness of modern software techniques
+- title: Comic Relief Platform by the numbers (Technical Consultant)
+  image: /images/achievements/comic-reliefe.png
+  summary: Zero-Downtime Payments platform

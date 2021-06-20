@@ -84,11 +84,12 @@ experiences:
     - Hardening IT systems against real threats & Cloud Accounts Audits
     - Java, Python, AWS, DevSecOps, Honeypots & Firewalls, Audits, CIS, SOC2, PCI-DSS, HIPPA
 - company:
-    name: 'Software Engineer & DevSecOps Contractor'
+    name: 'Wondermentapps'
+    url: "https://www.wondermentapps.com"
     location: UK, USA, Remote
-    overview: Public and Private sectors
+    overview: Wonderment Apps builds superior digital products, and offers curated staffing resources for tech, product, and QA.
   positions:
-  - designation: Software & Infrastructure Engineer
+  - designation: Senior Lead DevSecOps Contractor
     start: May 2012
     end: Feb 2015
     # give some points about what was your responsibilities at the company.
