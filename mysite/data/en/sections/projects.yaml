@@ -24,18 +24,20 @@ buttons:
   filter: "vms"
 - name: Golang
   filter: "go"
-- name: Infrastructure
-  filter: "infrastructure"
+- name: Python
+  filter: "python"
 - name: NodeJS
   filter: "nodejs"
+- name: Ruby
+  filter: "ruby"
+- name: Infrastructure
+  filter: "infrastructure"
 - name: OS
   filter: "os"
 - name: Performance
   filter: "performance"
 - name: PenTest
   filter: "pentest"
-- name: Python
-  filter: "python"
 - name: Serverless
   filter: "serverless"
 
