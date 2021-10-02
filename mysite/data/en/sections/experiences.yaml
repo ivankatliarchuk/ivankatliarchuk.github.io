@@ -17,11 +17,11 @@ experiences:
   positions:
   - designation: Engineering Manager
     start: Oct 2021
-    responsibilities:
-    - Lead team of platform engineers
-    - Participate in engineering leadership team reporting into CTO
-    - Design, maintain and improve technology processes and delivery pipelines
-    - Transforming and enabling product teams to ship high-quality code quickly — without compromising autonomy
+    # responsibilities:
+    # - Lead team of platform engineers
+    # - Participate in engineering leadership team reporting into CTO
+    # - Design, maintain and improve technology processes and delivery pipelines
+    # - Transforming and enabling product teams to ship high-quality code quickly — without compromising autonomy
 - company:
     name: "Nearform - External Contractor to McKinsey"
     url: "https://www.nearform.com/services/devops"
