@@ -10,6 +10,14 @@ section:
 
 experiences:
 - company:
+    name: "Holland & Barret"
+    url: "https://www.hollandandbarrettcorporate.com/"
+    location: UK, Euroe, Remote
+    overview: One of the world’s leading health and wellness retailers and the largest in Europe.
+  positions:
+  - designation: Engineering Manager
+    start: Oct 2021
+- company:
     name: "Nearform - External Contractor to McKinsey"
     url: "https://www.nearform.com/services/devops"
     location: UK, Europe, Remote
