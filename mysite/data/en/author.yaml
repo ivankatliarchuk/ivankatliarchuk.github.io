@@ -1,6 +1,6 @@
 # some information about you
 name: "Ivan Katliarchuk"
-nickname: ""
+nickname: "Ivan"
 image: "images/author/my-photo-sketch.jpg"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
@@ -20,4 +20,3 @@ summary:
 - How can I help your business?
 - Be obsessed. Go ALL in...
 - I can bring insights from other industries
--
