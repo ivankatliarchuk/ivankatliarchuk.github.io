@@ -37,22 +37,31 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
 softSkills:
-- name: Communication
+- type: soft-skill-indicator
+  name: Communication
   percentage: 90
   color: pink
-- name: Problem Solving
+- type: soft-skill-indicator
+  name: Problem Solving
   percentage: 100
   color: orange
-- name: Leadership
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 70
   color: blue
-- name: Automation
+- type: soft-skill-indicator
+  name: Automation
   percentage: 100
   color: yellow
-- name: Coding
+- type: soft-skill-indicator
+  name: Coding
   percentage: 100
   color: green
-- name: Clouds
+- type: soft-skill-indicator
+  name: Cloud Technologies
   percentage: 100
   color: sky
