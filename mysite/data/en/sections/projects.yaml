@@ -395,7 +395,7 @@ projects:
   summary: "Artillery is a modern load testing and smoke testing solution"
   tags: ["accelerator", "blueprints", "performance", "argillery", "aws"]
 
-- name: "Blueprint: 6 project"
+- name: "Blueprint: K6 project"
   role: Owner
   timeline: "May 2020 - Present"
   repo: "https://github.com/ik-performance/k6-blueprint"
@@ -426,3 +426,12 @@ projects:
   repo: "https://github.com/cloudkats/fastlane-plugin-saucelabs"
   summary: "Fastlane plugin to automate Sauce Labs build deployments and testing"
   tags: ["fastlane", "ruby", "ios", "android", "automation"]
+
+# assements
+
+- name: "mparticle: load generator"
+  role: Owner
+  timeline: "Jun 2020"
+  repo: "https://github.com/cloudkats/fastlane-plugin-saucelabs"
+  summary: "Load generator mparticle example"
+  tags: ["assesment", "python", "performance"]
