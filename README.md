@@ -1,9 +1,8 @@
-# ivankatliarchuk.github.io
+# [ivankatliarchuk.github.io](https://ivankatliarchuk.github.io)
 
-- [ivankatliarchuk.github.io](https://ivankatliarchuk.github.io)
+---
 
-[![](https://img.shields.io/github/workflow/status/ivankatliarchuk/ivankatliarchuk.github.io/github-pages-deploy/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
-[![](https://img.shields.io/github/workflow/status/ivankatliarchuk/ivankatliarchuk.github.io/check-markdown-links/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
+[![github-pages-deploy](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions/workflows/gh-pages.yml)
 [![owasp-zaproxy-baseline][owasp-zaproxy-baseline-badge]][owasp-zaproxy-baseline-status]
 [![owasp-zaproxy-full][owasp-zaproxy-full-badge]][owasp-zaproxy-full-status]
 [![governance.link-checker][governance.link-checker.badge]][governance.link-checker.status]
@@ -12,17 +11,7 @@
 ![Repository Size](https://img.shields.io/github/repo-size/ivankatliarchuk/ivankatliarchuk.github.io)
 ![Lines of Codes](https://img.shields.io/tokei/lines/github/ivankatliarchuk/ivankatliarchuk.github.io)
 
-## Themes
-
-- [Toha](https://github.com/hugo-toha/toha)
-- [Toha Setup](https://toha-guides.netlify.app/posts/features)
-- [Toha images](https://github.com/hugo-toha/toha/issues/206)
-- [Toha example](https://github.com/hugo-toha/hugo-toha.github.io)
-
-## Converters
-
-- [Yaml to Toml](https://toolkit.site/format.html)
-- [Yaml to TOML](https://www.convertsimple.com/convert-yaml-to-toml/)
+---
 
 ## TODO
 
