@@ -18,6 +18,8 @@ buttons:
   filter: "blueprints"
 - name: Automation
   filter: "automation"
+- name: Assesment
+  filter: "assesment"
 - name: AWS
   filter: "aws"
 - name: Docker&VM(s)
@@ -429,7 +431,7 @@ projects:
 
 # assements
 
-- name: "mparticle: load generator"
+- name: "Load Generator"
   role: Owner
   timeline: "Jun 2020"
   repo: "https://github.com/cloudkats/fastlane-plugin-saucelabs"
