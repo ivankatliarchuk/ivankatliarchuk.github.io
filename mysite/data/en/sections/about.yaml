@@ -34,6 +34,10 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ivankatliarchuk"
 
+- name: Credly
+  icon: "fab angle-double-right"
+  url: "https://www.credly.com/users/ivan-katliarchuk/badges"
+
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
