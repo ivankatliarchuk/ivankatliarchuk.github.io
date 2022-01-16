@@ -18,16 +18,17 @@ experiences:
   - designation: Engineering Manager
     start: Oct 2021
     responsibilities:
-    # - Responsible for the end-to-end health of the shared infrastructure and platform built to power H&B products and services
-    # - Working collaboratively with technology teams, help to drive operations and automation to accelerate product delivery, and ensure
-    #   consistent and stable services
+    - Responsible for the overall health of the common infrastructure and platform which underpins company products and services.
+    - Help to drive operations and automation to accelerate product delivery and ensure consistent and stable services through coordinating with technology teams
+    - Define and Support company hyperscale platform strategy
+    - Design, maintain and enchance technology processes
     # - Provide a resilient, secure, and highly available platform for our products and services to run on, and that the overall strategy for   platform defined and deliverd on time
 
     # - Lead team of platform engineers
     # - Participate in engineering leadership team reporting into CTO
     # - Design, maintain and improve technology processes and delivery pipelines
     # - Transforming and enabling product teams to ship high-quality code quickly — without compromising autonomy
-    # - Create,Support and Direct company hyperscale platform strategy
+
 - company:
     name: "Nearform - External Contractor to McKinsey"
     url: "https://www.nearform.com/services/devops"
