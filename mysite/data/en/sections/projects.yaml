@@ -311,6 +311,14 @@ projects:
 
 # Golang
 
+- name: "awscompute"
+  # logo: /images/sections/projects/kubernetes.png
+  role: Owner
+  timeline: "Jan 2022 - Present"
+  repo: https://github.com/cloudkats/awscompute
+  summary: "AWS resources compute CPU&Memory and Instance count"
+  tags: ["aws", "go"]
+
 - name: "Go: hackerrank challanges"
   # logo: /images/sections/projects/kubernetes.png
   role: Owner
