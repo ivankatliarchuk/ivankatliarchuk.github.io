@@ -97,6 +97,20 @@ projects:
   summary: My personal kubernetes training and certifications e.g., CKAD, CKA, CKAS
   tags: ["academic", "kubernetes", "training"]
 
+- name: "Workshop: Renovate"
+  role: Owner
+  timeline: "Dec 2021 - Present"
+  repo: https://github.com/ik-workshop/workshop-renovate
+  summary: AWS Workshop tutorials for Renovate, Dependency Management
+  tags: ["academic", "workshop", "renovate", "dependency update"]
+
+- name: "Workshop: Helm v1"
+  role: Owner
+  timeline: "Feb 2021 - Present"
+  repo: https://github.com/ik-workshop/workshop-helm-v1
+  summary: AWS Workshop tutorials for Helm
+  tags: ["academic", "kubernetes", "workshop", "helm", "helmfile"]
+
 # Accelerators
 
 - name: "Default community health files"
