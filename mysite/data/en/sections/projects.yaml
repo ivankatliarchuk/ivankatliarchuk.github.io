@@ -42,6 +42,8 @@ buttons:
   filter: "pentest"
 - name: Serverless
   filter: "serverless"
+- name: Private
+  filter: "private"
 
 projects:
 # all
@@ -59,7 +61,7 @@ projects:
   timeline: "December 2017 - Present"
   repo: https://github.com/ivankatliarchuk/configs #
   summary: Configuration files.
-  tags: ["all", "configuration", "os", "personal"]
+  tags: ["all", "configuration", "os", "personal", "private"]
 
 # Academic
 - name: Knowledge Base
