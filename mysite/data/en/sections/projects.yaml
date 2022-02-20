@@ -44,6 +44,8 @@ buttons:
   filter: "serverless"
 - name: Private
   filter: "private"
+- name: "Open Source Contributions"
+  filter: "bug-fix"
 
 projects:
 # all
@@ -461,3 +463,11 @@ projects:
   repo: "https://github.com/cloudkats/fastlane-plugin-saucelabs"
   summary: "Load generator mparticle example"
   tags: ["assesment", "python", "performance"]
+
+# Open Source Contributions
+- name: "Renovate: labels bug fix"
+  role: Owner
+  timeline: "Feb 2022"
+  repo: https://github.com/ik-workshop/renovate-bug-14322
+  summary: 'Renovate bug: labels not pushed with Github API'
+  tags: ["bug-fix", "renovate"]
