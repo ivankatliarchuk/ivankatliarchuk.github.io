@@ -6,7 +6,7 @@ repository:
   name: ivankatliarchuk.github.io
   description: My personal github page.
   homepage: https://ivankatliarchuk.github.io
-  topics: personal-site, personal-website, static-site, portfolio-site, hugo-themes, theme-site, toha,ivka
+  topics: ivank, personal-site, personal-website, static-site, portfolio-site, hugo-themes, theme-site, toha
   private: false
   has_issues: true
   has_projects: false
