@@ -65,6 +65,13 @@ projects:
   summary: Configuration files.
   tags: ["all", "configuration", "os", "personal", "private"]
 
+- name: Obsidian Vaults
+  role: Owner
+  timeline: "December 2017 - Present"
+  repo: https://github.com/ivankatliarchuk/obsidian-vaults
+  summary: Obsidian vaults
+  tags: ["personal", "private", "obsidian"]
+
 # Academic
 - name: Knowledge Base
   role: Owner
