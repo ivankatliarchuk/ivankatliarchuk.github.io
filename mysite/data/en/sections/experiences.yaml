@@ -18,10 +18,10 @@ experiences:
   - designation: Engineering Manager
     start: Oct 2021
     responsibilities:
+    - Maintain the connection to the big-picture vision/strategy and make it easier for a team to get things done.
     - Responsible for the overall health of the common infrastructure and platform which underpins company products and services.
     - Help to drive operations and automation to accelerate product delivery and ensure consistent and stable services through coordinating with technology teams
     - Define and Support company hyperscale platform strategy
-    - Design, maintain and enchance technology processes
     # - Provide a resilient, secure, and highly available platform for our products and services to run on, and that the overall strategy for   platform defined and deliverd on time
 
     # - Lead team of platform engineers
