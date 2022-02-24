@@ -467,9 +467,9 @@ projects:
 - name: "Load Generator"
   role: Owner
   timeline: "Jun 2020"
-  repo: "https://github.com/cloudkats/fastlane-plugin-saucelabs"
+  repo: "https://github.com/ik-learning/load-generator.git"
   summary: "Load generator mparticle example"
-  tags: ["assesment", "python", "performance"]
+  tags: ["assesment", "python", "performance", "mparticle"]
 
 # Open Source Contributions
 - name: "Renovate: labels bug fix"
