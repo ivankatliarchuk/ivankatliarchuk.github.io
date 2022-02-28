@@ -44,8 +44,8 @@ buttons:
   filter: "serverless"
 - name: Private
   filter: "private"
-- name: "Open Source Contributions"
-  filter: "bug-fix"
+- name: "Open Source contibutor"
+  filter: "contibutor"
 
 projects:
 # all
@@ -471,10 +471,31 @@ projects:
   summary: "Load generator mparticle example"
   tags: ["assesment", "python", "performance", "mparticle"]
 
-# Open Source Contributions
-- name: "Renovate: labels bug fix"
-  role: Owner
-  timeline: "Feb 2022"
-  repo: https://github.com/ik-workshop/renovate-bug-14322
-  summary: 'Renovate bug: labels not pushed with Github API'
-  tags: ["bug-fix", "renovate"]
+# Open Source contibutor
+# - name: "Renovate: labels bug fix"
+#   role: Owner
+#   timeline: "Feb 2022"
+#   repo: https://github.com/ik-workshop/renovate-bug-14322
+#   summary: 'Renovate bug: labels not pushed with Github API'
+#   tags: ["bug-fix", "renovate", "contibutor"]
+
+- name: "Renovate: Universal dependency update tool"
+  role: Contributor
+  timeline: "2021 - Present"
+  repo: https://github.com/renovatebot/renovate
+  summary: 'issues/14328, issues/14421'
+  tags: ["renovate", "contibutor", "nodejs"]
+
+- name: "Toha: A Hugo theme for personal portfolio "
+  role: Contributor
+  timeline: "2022 - Present"
+  repo: https://github.com/hugo-toha/toha
+  summary: 'issues/539'
+  tags: ["toga", "hugo", "go", "contibutor"]
+
+- name: "is: Type check values "
+  role: Contributor
+  timeline: "2022"
+  repo: https://github.com/ivankatliarchuk/is
+  summary: 'pull/161'
+  tags: ["nodejs", "contibutor"]
