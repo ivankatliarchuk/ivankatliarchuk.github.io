@@ -72,6 +72,13 @@ projects:
   summary: Obsidian vaults
   tags: ["personal", "private", "obsidian"]
 
+- name: Centralized Config
+  role: Owner
+  timeline: "December 2022 - Present"
+  repo: https://github.com/ik-workshop/centralized-config-main
+  summary: Scale configuration across multiple accounts
+  tags: ["personal", "private", "infra config", "workshop"]
+
 # Academic
 - name: Knowledge Base
   role: Owner
