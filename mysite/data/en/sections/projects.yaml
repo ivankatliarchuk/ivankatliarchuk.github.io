@@ -281,6 +281,13 @@ projects:
   summary: "AWS IAM roles setup. TODO: move to terraform modules"
   tags: ["infrastructure", "terraform", "aws", "iam"]
 
+- name: "Infrastructure: learn opa"
+  role: Owner
+  timeline: "Dec 2022 - Present"
+  repo: "https://github.com/ik-learning/opa-learn.git"
+  summary: Evaluate how to use opa.
+  tags: ["infrastructure", "opa", "aws", "kubernetes"]
+
 # Docker & VM(s)
 
 - name: "Docker: tools"
