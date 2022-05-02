@@ -33,7 +33,7 @@ buttons:
 - name: Ruby
   filter: "ruby"
 - name: Infrastructure
-  filter: "infrastructure"
+  filter: "iac"
 - name: OS
   filter: "os"
 - name: Performance
@@ -216,7 +216,7 @@ projects:
   timeline: "Dec 2019 - Present"
   repo: "https://github.com/ik-kubernetes/my-awesome-stuff-kuberntes"
   summary: Awesome kubernetes resources.
-  tags: ["infrastructure", "kubernetes"]
+  tags: ["iac", "kubernetes"]
 
 - name: "Terraform: aws eks profile module"
   role: Owner
@@ -230,21 +230,21 @@ projects:
   timeline: "Aug 2020 - Present"
   repo: "https://github.com/terraform-module/terraform-aws-cloudfront"
   summary: AWS Cloudfront distribution module.
-  tags: ["infrastructure", "terraform", "aws", "cloudfront"]
+  tags: ["iac", "terraform", "aws", "cloudfront"]
 
 - name: "Terraform: aws kms module"
   role: Owner
   timeline: "Nov 2020 - Present"
   repo: "https://github.com/terraform-module/terraform-aws-kms"
   summary: AWS KMS module.
-  tags: ["infrastructure", "terraform", "aws", "kms"]
+  tags: ["iac", "terraform", "aws", "kms"]
 
 - name: "Terraform: aws lambda module"
   role: Owner
   timeline: "Aug 2019 - Present"
   repo: "https://github.com/terraform-module/terraform-aws-lambda"
   summary: Deploy serverless function to AWS VPC.
-  tags: ["infrastructure", "terraform", "aws", "lambda"]
+  tags: ["iac", "terraform", "aws", "lambda"]
 
 - name: "Terraform: aws enforce MFA module"
   role: Owner
@@ -258,35 +258,42 @@ projects:
   timeline: "Dec 2019 - Present"
   repo: "https://github.com/terraform-module/terraform-kubernetes-velero"
   summary: Manages Kubernetes Velero deployment
-  tags: ["infrastructure", "kubernetes", "velero", "terraform"]
+  tags: ["iac", "kubernetes", "velero", "terraform"]
 
 - name: "Terraform: aws proxy nginx module"
   role: Owner
   timeline: "Dec 2019 - Present"
   repo: "https://github.com/terraform-module/terraform-aws-proxy-nginx"
   summary: Deploy NGINX proxy with SSH
-  tags: ["infrastructure", "terraform", "nginx", "proxy"]
+  tags: ["iac", "terraform", "nginx", "proxy"]
 
 - name: "Terraform: helm release module"
   role: Owner
   timeline: "Aug 2019 - Present"
   repo: "https://github.com/terraform-module/terraform-helm-release"
   summary: "Wrapper for Terraform Helm provider"
-  tags: ["infrastructure", "terraform", "helm"]
+  tags: ["iac", "terraform", "helm"]
 
 - name: "Terraform: aws IAM module"
   role: Owner
   timeline: "Dec 2018 - Present"
   repo: "https://github.com/ik-cloud-iam/iam-by-role"
   summary: "AWS IAM roles setup. TODO: move to terraform modules"
-  tags: ["infrastructure", "terraform", "aws", "iam"]
+  tags: ["iac", "terraform", "aws", "iam"]
 
-- name: "Infrastructure: learn opa"
+- name: "Terraform: aws ECR module"
+  role: Owner
+  timeline: "May 2022 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-ecrs"
+  summary: "Terraform module which creates AWS ECR resources."
+  tags: ["iac", "terraform", "aws", "ecr"]
+
+- name: "iac: learn opa"
   role: Owner
   timeline: "Dec 2022 - Present"
   repo: "https://github.com/ik-learning/opa-learn.git"
   summary: Evaluate how to use opa.
-  tags: ["infrastructure", "opa", "aws", "kubernetes"]
+  tags: ["iac", "opa", "aws", "kubernetes"]
 
 # Docker & VM(s)
 
