@@ -44,8 +44,8 @@ buttons:
   filter: "serverless"
 - name: Private
   filter: "private"
-- name: "Open Source contibutor"
-  filter: "contibutor"
+- name: "Open Source contributor"
+  filter: "contributor"
 
 projects:
 # all
@@ -485,31 +485,40 @@ projects:
   summary: "Load generator mparticle example"
   tags: ["assesment", "python", "performance", "mparticle"]
 
-# Open Source contibutor
+# Open Source contributor
 # - name: "Renovate: labels bug fix"
 #   role: Owner
 #   timeline: "Feb 2022"
 #   repo: https://github.com/ik-workshop/renovate-bug-14322
 #   summary: 'Renovate bug: labels not pushed with Github API'
-#   tags: ["bug-fix", "renovate", "contibutor"]
+#   tags: ["bug-fix", "renovate", "contributor"]
 
 - name: "Renovate: Universal dependency update tool"
   role: Contributor
   timeline: "2021 - Present"
   repo: https://github.com/renovatebot/renovate
   summary: 'issues/14328, issues/14421, pull/14511'
-  tags: ["renovate", "contibutor", "nodejs"]
+  tags: ["renovate", "contributor", "nodejs"]
 
 - name: "Toha: A Hugo theme for personal portfolio "
   role: Contributor
   timeline: "2022 - Present"
   repo: https://github.com/hugo-toha/toha
   summary: 'issues/539'
-  tags: ["toga", "hugo", "go", "contibutor"]
+  tags: ["toga", "hugo", "go", "contributor"]
 
 - name: "is: Type check values "
   role: Contributor
   timeline: "2022"
   repo: https://github.com/ivankatliarchuk/is
   summary: 'pull/161'
-  tags: ["nodejs", "contibutor"]
+  tags: ["nodejs", "contributor"]
+
+# Mixe
+
+- name: "Rest Api: hello-world"
+  role: Owner
+  timeline: "Jan 2020 - Present"
+  repo: "https://github.com/cloudkats/hello-world-rest"
+  summary: "A simple REST Service."
+  tags: ["nodejs", "rest", "hello-world", "academic"]
