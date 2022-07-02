@@ -92,7 +92,7 @@ projects:
   timeline: "Dec 2019 - Present"
   repo: https://github.com/ik-workshop/workshop-tfm-tgt
   summary: AWS Workshop tutorials for Terraform
-  tags: ["academic", "terraform", "cloud", "workshop", "terraform", "terragrunt"]
+  tags: ["academic", "terraform", "cloud", "workshop", "terragrunt"]
 
 - name: "Workshop: AWS Kubernetes"
   role: Owner
@@ -284,7 +284,7 @@ projects:
 - name: "Terraform: aws ECR module"
   role: Owner
   timeline: "May 2022 - Present"
-  repo: "https://github.com/terraform-module/terraform-aws-ecrs"
+  repo: "https://github.com/terraform-module//terraform-aws-ecr"
   summary: "Terraform module which creates AWS ECR resources."
   tags: ["iac", "terraform", "aws", "ecr"]
 
@@ -331,6 +331,13 @@ projects:
   repo: https://github.com/ik-vms-dockers/vms-factory
   summary: Assembling vms here.
   tags: ["vms", "vagrant", "packer", "ubuntu"]
+
+- name: "VM(s): packer aws AMI with tools installed"
+  role: Owner
+  timeline: "May 2022 - Present"
+  repo: https://github.com/ik-vms-dockers/packer-aws-ansible
+  summary: Assembling AMI on AWS with Packer.
+  tags: ["packer", "ansible", "flyway"]
 
 - name: "VM(s): provision"
   role: Owner
