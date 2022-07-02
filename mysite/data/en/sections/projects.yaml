@@ -284,9 +284,16 @@ projects:
 - name: "Terraform: aws ECR module"
   role: Owner
   timeline: "May 2022 - Present"
-  repo: "https://github.com/terraform-module//terraform-aws-ecr"
+  repo: "https://github.com/terraform-module/terraform-aws-ecr"
   summary: "Terraform module which creates AWS ECR resources."
   tags: ["iac", "terraform", "aws", "ecr"]
+
+- name: "Terraform: aws ECS bootstrap module"
+  role: Owner
+  timeline: "July 2022 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-ecs-bootstrap"
+  summary: "Terraform module which creates AWS ECS resources."
+  tags: ["iac", "terraform", "aws", "ecs"]
 
 - name: "iac: learn opa"
   role: Owner
