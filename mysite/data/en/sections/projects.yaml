@@ -281,6 +281,14 @@ projects:
   summary: "AWS IAM roles setup. TODO: move to terraform modules"
   tags: ["iac", "terraform", "aws", "iam"]
 
+
+- name: "Terraform: aws ECS module"
+  role: Owner
+  timeline: "May 2022 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-ecs"
+  summary: "Terraform module which creates AWS ECS resources."
+  tags: ["iac", "terraform", "aws", "ecs"]
+
 - name: "Terraform: aws ECR module"
   role: Owner
   timeline: "May 2022 - Present"
