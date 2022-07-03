@@ -309,6 +309,13 @@ projects:
   summary: "Fully configurable terraform module to access AWS APIs from Github Actions through OpenID Connect."
   tags: ["iac", "terraform", "aws", "github", "oidc"]
 
+- name: "Terraform: AWS GitLAb OIDC module"
+  role: Owner
+  timeline: "July 2022 - Present"
+  repo: "https://github.com/terraform-module/terraform-aws-gitlab-oidc-provider"
+  summary: "Fully configurable terraform module to access AWS APIs from GitLAb through OpenID Connect."
+  tags: ["iac", "terraform", "aws", "gitlab", "oidc"]
+
 - name: "iac: learn opa"
   role: Owner
   timeline: "Dec 2022 - Present"
