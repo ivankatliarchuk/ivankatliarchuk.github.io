@@ -559,14 +559,14 @@ projects:
 - name: "is: Type check values "
   role: Contributor
   timeline: "2022 - Present"
-  repo: https://github.com/ivankatliarchuk/is
+  repo: https://github.com/enricomarino/is
   summary: 'bug fixes and optimisations'
   tags: ["nodejs", "contributor"]
 
 - name: "Danger-js: Universal automated code review tool"
   role: Contributor
   timeline: "2022 - Present"
-  repo: https://github.com/ivankatliarchuk/is
+  repo: https://github.com/danger/danger-js
   summary: 'bug fixes and optimisations'
   tags: ["nodejs", "contributor", "automation"]
 
