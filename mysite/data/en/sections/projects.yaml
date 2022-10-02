@@ -44,7 +44,7 @@ buttons:
   filter: "serverless"
 - name: Private
   filter: "private"
-- name: "Open Source contributor"
+- name: "Open Source"
   filter: "contributor"
 
 projects:
