@@ -546,22 +546,29 @@ projects:
   role: Contributor
   timeline: "2021 - Present"
   repo: https://github.com/renovatebot/renovate
-  summary: 'issues/14328, issues/14421, pull/14511'
-  tags: ["renovate", "contributor", "nodejs"]
+  summary: 'multiple issues and bug fixes'
+  tags: ["nodejs", "contributor", "automation"]
 
 - name: "Toha: A Hugo theme for personal portfolio "
   role: Contributor
   timeline: "2022 - Present"
   repo: https://github.com/hugo-toha/toha
-  summary: 'issues/539'
+  summary: 'multiple issues updated'
   tags: ["toga", "hugo", "go", "contributor"]
 
 - name: "is: Type check values "
   role: Contributor
-  timeline: "2022"
+  timeline: "2022 - Present"
   repo: https://github.com/ivankatliarchuk/is
-  summary: 'pull/161'
+  summary: 'bug fixes and optimisations'
   tags: ["nodejs", "contributor"]
+
+- name: "Danger-js: Universal automated code review tool"
+  role: Contributor
+  timeline: "2022 - Present"
+  repo: https://github.com/ivankatliarchuk/is
+  summary: 'bug fixes and optimisations'
+  tags: ["nodejs", "contributor", "automation"]
 
 # Mixe
 
