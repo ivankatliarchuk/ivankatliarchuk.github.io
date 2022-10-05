@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # checkout to latest commit
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.1.0
         with:
           fetch-depth: 1
       # run markdown linter
