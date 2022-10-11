@@ -65,7 +65,7 @@ jobs:
 
       # https://github.com/JasonEtco/actions-toolkit#toolscontext
       - name: create issue from file
-        uses: JasonEtco/create-an-issue@v2.6.0
+        uses: JasonEtco/create-an-issue@v2.8.0
         if: always()
         id: create-issue
         env:
