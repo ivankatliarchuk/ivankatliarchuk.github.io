@@ -209,6 +209,13 @@ projects:
   summary: "Pipeline examples: Jenkins, CodeBuild, Github Actions and etc"
   tags: ["automation", "pipelines", "github actions", "codebuild", "jenkins"]
 
+- name: "Kubernetes: fixtures"
+  role: Owner
+  timeline: "Oct 2019 - Present"
+  repo: "https://github.com/ik-kubernetes/k8s-fixtures.git"
+  summary: "Kubernetes fixtures"
+  tags: ["automation", "k8s", "kubernetes", "blueprints", "fixtures"]
+
 # Infrastructure
 
 - name: "Infrastructure: my awesome kubernetes resources"
