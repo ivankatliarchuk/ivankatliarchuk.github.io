@@ -211,13 +211,6 @@ projects:
   summary: "Pipeline examples: Jenkins, CodeBuild, Github Actions and etc"
   tags: ["automation", "pipelines", "github actions", "codebuild", "jenkins"]
 
-- name: "Kubernetes: fixtures"
-  role: Owner
-  timeline: "Oct 2019 - Present"
-  repo: "https://github.com/ik-kubernetes/k8s-fixtures.git"
-  summary: "Kubernetes fixtures"
-  tags: ["automation", "k8s", "kubernetes", "blueprints", "fixtures"]
-
 # Infrastructure
 
 - name: "Infrastructure: my awesome kubernetes resources"
@@ -397,21 +390,28 @@ projects:
   timeline: "Jan 2018 - Present"
   repo: https://github.com/ik-scripting/scripts
   summary: "A collection of scripts"
-  tags: ["os", "scripts", "macos", "linux", "unix", "helper"]
+  tags: ["helper", "os", "scripts", "linux", "k8s", "aws", "python", "bash"]
 
 - name: "Helper: automate code review"
   role: Owner
   timeline: "Oct 2022 - Present"
   repo: https://github.com/ik-learning/automate-code-review
   summary: "Automate code review"
-  tags: ["code-review", "helper"]
+  tags: ["helper", "code-review"]
+
+- name: "Kubernetes: fixtures"
+  role: Owner
+  timeline: "Oct 2019 - Present"
+  repo: "https://github.com/ik-kubernetes/k8s-fixtures.git"
+  summary: "Kubernetes fixtures"
+  tags: ["helper", "automation", "k8s", "kubernetes", "blueprints", "fixtures", "yml"]
 
 - name: "OS: makefiles"
   role: Owner
   timeline: "Jan 2019 - Present"
   repo: https://github.com/ik-scripting/makefiles
   summary: Collection of directives used by a make build automation tool to generate a target/goal
-  tags: ["os", "scripts", "macos", "linux", "unix"]
+  tags: ["helper", "scripts", "macos", "linux", "makefile"]
 
 # Golang
 
