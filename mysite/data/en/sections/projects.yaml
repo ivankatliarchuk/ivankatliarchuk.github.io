@@ -397,21 +397,21 @@ projects:
   timeline: "Oct 2022 - Present"
   repo: https://github.com/ik-learning/automate-code-review
   summary: "Automate code review"
-  tags: ["helper", "code-review"]
+  tags: ["helper", "code-review", "js", "nodejs"]
 
-- name: "Kubernetes: fixtures"
+- name: "Helper: kubernetes fixtures with examples"
   role: Owner
   timeline: "Oct 2019 - Present"
   repo: "https://github.com/ik-kubernetes/k8s-fixtures.git"
   summary: "Kubernetes fixtures"
   tags: ["helper", "automation", "k8s", "kubernetes", "blueprints", "fixtures", "yml"]
 
-- name: "OS: makefiles"
+- name: "Helper: makefiles"
   role: Owner
   timeline: "Jan 2019 - Present"
   repo: https://github.com/ik-scripting/makefiles
   summary: Collection of directives used by a make build automation tool to generate a target/goal
-  tags: ["helper", "scripts", "macos", "linux", "makefile"]
+  tags: ["helper", "scripts", "linux", "makefile"]
 
 # Golang
 
