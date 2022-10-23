@@ -204,12 +204,12 @@ projects:
 
 # Automation
 
-- name: "Automation: mixed pipelines"
+- name: "Automation: mixed pipelines helpers and mixins"
   role: Owner
   timeline: "May 2020 - Present"
   repo: "https://github.com/ik-automation/my-mixed-pipelines"
   summary: "Pipeline examples: Jenkins, CodeBuild, Github Actions and etc"
-  tags: ["automation", "pipelines", "github actions", "codebuild", "jenkins"]
+  tags: ["automation", "helpers", "pipelines", "github actions", "codebuild", "jenkins"]
 
 # Infrastructure
 
