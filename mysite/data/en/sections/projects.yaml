@@ -18,8 +18,8 @@ buttons:
   filter: "blueprints"
 - name: Automation
   filter: "automation"
-- name: Assesment
-  filter: "assesment"
+- name: Assessment
+  filter: "assessment"
 - name: AWS
   filter: "aws"
 - name: Docker&VM(s)
@@ -46,6 +46,8 @@ buttons:
   filter: "private"
 - name: "Open Source"
   filter: "contributor"
+- name: "Helpers"
+  filter: "helper"
 
 projects:
 # all
@@ -388,14 +390,21 @@ projects:
   summary: Assembling vms here.
   tags: ["vms", "vagrant", "packer", "ubuntu", "kali", "whonix"]
 
-# OS
+# Helpers
 
-- name: "OS: linux, mac & windows scripts"
+- name: "Helper: tools and scripts"
   role: Owner
   timeline: "Jan 2018 - Present"
   repo: https://github.com/ik-scripting/scripts
-  summary: "A collection of (mostly POSIX compatible) shell scripts"
-  tags: ["os", "scripts", "macos", "linux", "unix"]
+  summary: "A collection of scripts"
+  tags: ["os", "scripts", "macos", "linux", "unix", "helper"]
+
+- name: "Helper: automate code review"
+  role: Owner
+  timeline: "Oct 2022 - Present"
+  repo: https://github.com/ik-learning/automate-code-review
+  summary: "Automate code review"
+  tags: ["code-review", "helper"]
 
 - name: "OS: makefiles"
   role: Owner
@@ -539,7 +548,7 @@ projects:
   timeline: "Jun 2020"
   repo: "https://github.com/ik-learning/load-generator.git"
   summary: "Load generator mparticle example"
-  tags: ["assesment", "python", "performance", "mparticle"]
+  tags: ["assessment", "python", "performance"]
 
 # Open Source contributor
 # - name: "Renovate: labels bug fix"
