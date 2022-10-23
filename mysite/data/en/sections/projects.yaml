@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Personal Projects
   id: projects
   enable: true
   weight: 5
@@ -12,6 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: "Helpers"
+  filter: "helper"
 - name: Academic
   filter: "academic"
 - name: Accelerators
@@ -46,8 +48,6 @@ buttons:
   filter: "private"
 - name: "Open Source"
   filter: "contributor"
-- name: "Helpers"
-  filter: "helper"
 
 projects:
 # all
@@ -397,7 +397,7 @@ projects:
   timeline: "Oct 2022 - Present"
   repo: https://github.com/ik-learning/automate-code-review
   summary: "Automate code review"
-  tags: ["helper", "code-review", "js", "nodejs"]
+  tags: ["helper", "code-review", "js", "nodejs", "aws"]
 
 - name: "Helper: kubernetes fixtures with examples"
   role: Owner
