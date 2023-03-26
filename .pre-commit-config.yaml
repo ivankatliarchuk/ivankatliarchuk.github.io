@@ -64,7 +64,7 @@ repos:
           ^.github/templates/
       )
 - repo: https://github.com/adrienverge/yamllint.git
-  rev: v1.29.0
+  rev: v1.30.0
   hooks:
   - id: yamllint
     files: \.(yaml|yml)$
