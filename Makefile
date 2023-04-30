@@ -33,5 +33,7 @@ submodules: ## Update submodules
 
 update: ## Update Hugo modules
 	@cd mysite; hugo mod tidy
+	@cd mysite; hugo mod npm pack
+	@cd mysite; npm install
 
 .PHONY: help validate hooks deploy open
