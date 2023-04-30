@@ -40,7 +40,7 @@ jobs:
 
       - name: build
         run: |
-          cp static/files public/files
+          cp ${{ env.SITE_PATH }}/static/files ${{ env.SITE_PATH }}/public/files
           hugo --minify -s ${{ env.SITE_PATH }} -d ../public
 
       - name: deploy
