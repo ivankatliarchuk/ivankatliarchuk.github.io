@@ -51,14 +51,14 @@ socialLinks:
 badges:
 
 - type: soft-skill-indicator
-  name: Communication
-  percentage: 85
-  color: pink
-
-- type: soft-skill-indicator
   name: Problem Solving
   percentage: 100
   color: orange
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 85
+  color: pink
 
 - type: soft-skill-indicator
   name: Leadership
