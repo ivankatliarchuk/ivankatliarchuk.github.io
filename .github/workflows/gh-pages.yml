@@ -9,7 +9,7 @@ env:
   SITE_PATH: mysite
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3.5.2
