@@ -7,7 +7,11 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-resume: "files/resume.pdf"
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
 
 # your designation
 designation: Engineering Manager. SRE and Platforms
