@@ -237,3 +237,5 @@ hugo.linux
 
 resources/*
 mysite/resources/_gen
+
+mysite/assets/jsconfig.json

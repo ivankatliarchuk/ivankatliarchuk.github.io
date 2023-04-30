@@ -31,4 +31,7 @@ generate: ## Generate site
 submodules: ## Update submodules
 	@git submodule update --remote --recursive
 
+update: ## Update Hugo modules
+	@cd mysite; hugo mod tidy
+
 .PHONY: help validate hooks deploy open
