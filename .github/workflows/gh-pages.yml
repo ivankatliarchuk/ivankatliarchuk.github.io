@@ -39,7 +39,9 @@ jobs:
           npm install
 
       - name: build
-        run: hugo --minify -s ${{ env.SITE_PATH }} -d ../public
+        run: |
+          cp static/files public/files
+          hugo --minify -s ${{ env.SITE_PATH }} -d ../public
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3.9.3
