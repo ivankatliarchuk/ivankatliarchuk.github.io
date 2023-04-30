@@ -41,8 +41,6 @@ jobs:
       - name: build
         run: |
           hugo --minify -s ${{ env.SITE_PATH }} -d ../public
-          cp -r ${{ env.SITE_PATH }}/static/files ${{ env.SITE_PATH }}/public/files
-          ls -la ${{ env.SITE_PATH }}/public/files
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3.9.3
