@@ -587,7 +587,7 @@ projects:
   summary: 'bug fixes and optimisations'
   tags: ["nodejs", "contributor", "automation"]
 
-- name: "crossplane(provider-aws): Crossplane AWS Provider "
+- name: "Crossplane(provider-aws): Crossplane AWS Provider "
   role: Contributor
   timeline: "2023 - Present"
   repo: https://github.com/crossplane-contrib/provider-aws
