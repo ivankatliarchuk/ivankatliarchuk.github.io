@@ -550,7 +550,8 @@ projects:
   summary: "Load generator mparticle example"
   tags: ["assessment", "python", "performance"]
 
-# Open Source contributor
+# Open Source contributions
+
 # - name: "Renovate: labels bug fix"
 #   role: Owner
 #   timeline: "Feb 2022"
@@ -585,6 +586,13 @@ projects:
   repo: https://github.com/danger/danger-js
   summary: 'bug fixes and optimisations'
   tags: ["nodejs", "contributor", "automation"]
+
+- name: "crossplane(provider-aws): Crossplane AWS Provider "
+  role: Contributor
+  timeline: "2023 - Present"
+  repo: https://github.com/crossplane-contrib/provider-aws
+  summary: 'bug fixes and optimisations'
+  tags: ["go", "contributor", "automation", "iac"]
 
 # Mixe
 
