@@ -1,3 +1,8 @@
+exclude: |
+  (?x)(
+      ^_help/|
+      ^.github/templates/
+  )
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: v4.5.0
@@ -49,20 +54,6 @@ repos:
   rev: v0.1.22 # Get the latest from: https://github.com/gruntwork-io/pre-commit/releases
   hooks:
   - id: shellcheck
-- repo: https://github.com/markdownlint/markdownlint
-  rev: aa4ddf48c672801b984849eaae55d95d45487128
-  hooks:
-  - id: markdownlint
-    name: Markdownlint
-    description: Run markdownlint on your Markdown files
-    entry: mdl
-    language: ruby
-    files: \.(md|mdown|markdown)$
-    exclude: |
-      (?x)(
-          ^_help/|
-          ^.github/templates/
-      )
 - repo: https://github.com/adrienverge/yamllint.git
   rev: v1.32.0
   hooks:
