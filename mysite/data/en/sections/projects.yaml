@@ -594,6 +594,13 @@ projects:
   summary: 'bug fixes, new features and improvements'
   tags: ["go", "contributor", "automation", "iac"]
 
+- name: "Traefik helm: Traefik Proxy Helm Chart "
+  role: Contributor
+  timeline: "2022 - Present"
+  repo: https://github.com/traefik/traefik-helm-chart
+  summary: 'bug fixes and optimisations'
+  tags: ["helm", "contributor", "kubernetes"]
+
 # Mixe
 
 - name: "Rest Api: hello-world"
