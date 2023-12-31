@@ -12,6 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: "Open Source Contributions"
+  filter: "contributor"
 - name: "Helpers"
   filter: "helper"
 - name: Academic
@@ -46,8 +48,6 @@ buttons:
   filter: "serverless"
 - name: Private
   filter: "private"
-- name: "Open Source Contributions"
-  filter: "contributor"
 
 projects:
 # all
