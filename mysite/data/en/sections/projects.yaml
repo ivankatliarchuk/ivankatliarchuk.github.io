@@ -587,19 +587,26 @@ projects:
   summary: 'bug fixes and optimisations'
   tags: ["nodejs", "contributor", "automation"]
 
-- name: "Crossplane(provider-aws): Crossplane AWS Provider "
+- name: "Crossplane(provider-aws): Crossplane AWS Provider"
   role: Contributor
   timeline: "2023 - Present"
   repo: https://github.com/crossplane-contrib/provider-aws
   summary: 'bug fixes, new features and improvements'
   tags: ["go", "contributor", "automation", "iac"]
 
-- name: "Traefik helm: Traefik Proxy Helm Chart "
+- name: "Traefik helm: Traefik Proxy Helm Chart"
   role: Contributor
   timeline: "2022 - Present"
   repo: https://github.com/traefik/traefik-helm-chart
   summary: 'bug fixes and optimisations'
   tags: ["helm", "contributor", "kubernetes"]
+
+- name: "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin"
+  role: Contributor
+  timeline: "2024 - Present"
+  repo: https://github.com/helm-unittest/helm-unittest
+  summary: 'bug fixes and added capabilities'
+  tags: ["helm", "contributor", "kubernetes", "test"]
 
 # Mixe
 
