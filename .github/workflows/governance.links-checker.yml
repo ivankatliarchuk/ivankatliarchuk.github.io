@@ -54,7 +54,7 @@ jobs:
 
       - name: read output
         id: readfile
-        uses: juliangruber/read-file-action@v1.1.6
+        uses: juliangruber/read-file-action@v1.1.7
         if: ${{ steps.lychee.outputs.exit_code > 0 }}
         with:
           path: ${{ env.LYCHEE_OUT }}
@@ -73,7 +73,7 @@ jobs:
           write-mode: append
 
       - name: create issue from file
-        uses: JasonEtco/create-an-issue@v2.9.1
+        uses: JasonEtco/create-an-issue@v2.9.2
         id: issue
         if: ${{ steps.lychee.outputs.exit_code > 0 }}
         env:
