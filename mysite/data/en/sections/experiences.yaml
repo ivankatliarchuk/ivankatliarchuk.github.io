@@ -94,16 +94,11 @@ experiences:
     location: USA, Remote
     overview: Wonderment Apps builds superior digital products, and offers curated staffing resources for tech, product, and QA.
   positions:
-  - designation: Sr. Lead DevSecOps Contractor
-    start: "2014"
+  - designation: Lead DevSecOps Contractor
+    start: "2012"
     end: "2015"
     responsibilities:
     - "Provide DevSecOps services to: Stamps, iHerb, Nasa, Cast It, Story Scout, Casting Networks, Million Stories"
-  - designation: Lead DevSecOps Contractor
-    start: "2012"
-    end: "2014"
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
     - Inspire customers and peers to solve difficult problems with innovative and novel solutions, leveraging an excellent set of technical competences.
     - Recommend migration strategies, enterprise architectures, migration tools, and cloud infrastructure required to successfully implement a complete solution using best practices
     - C#, Java, Python, NodeJS, AWS, Azure, DevSecOps, Agile
