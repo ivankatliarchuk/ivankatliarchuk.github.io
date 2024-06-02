@@ -90,21 +90,6 @@ experiences:
     - Migration applications from bare metal Solaris to Kubernetes
     - Java, JS, C#, Azure, SQL Server, Microservices, DevOps, Agile
 - company:
-    name: NDA
-    url: "https://www.gov.uk/government/publications/non-disclosure-agreements"
-    location: UK, part-time contractor
-    overview: Providing customers the freedom to innovate and run their businesses with minimal friction
-  positions:
-  - designation: Security Contractor
-    start: May 2012
-    end: Feb 2015
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Vulnerability, incident response, threat hunting, and monitoring platform
-    - Vulnerability identification, remediation, and management reporting processes with IT squads and suppliers to manage risks/prevent
-    - Hardening IT systems against real threats & Cloud Accounts Audits
-    - Java, Python, AWS, DevSecOps, Honeypots & Firewalls, Audits, CIS, SOC2, PCI-DSS, HIPPA
-- company:
     name: 'Wonderment Apps'
     url: "https://www.wondermentapps.com"
     location: USA, Remote
