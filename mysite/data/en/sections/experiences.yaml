@@ -12,7 +12,7 @@ experiences:
 - company:
     name: "Holland & Barrett"
     url: "https://www.hollandandbarrettcorporate.com/"
-    location: UK, Europe, Remote
+    location: UK, Remote
     overview: "One of the world’s leading health and wellness retailers and the largest in Europe."
   positions:
   - designation: Engineering Manager. SRE and Platforms
@@ -105,9 +105,9 @@ experiences:
     - Hardening IT systems against real threats & Cloud Accounts Audits
     - Java, Python, AWS, DevSecOps, Honeypots & Firewalls, Audits, CIS, SOC2, PCI-DSS, HIPPA
 - company:
-    name: 'Wondermentapps'
+    name: 'Wonderment Apps'
     url: "https://www.wondermentapps.com"
-    location: Remote
+    location: USA, Remote
     overview: Wonderment Apps builds superior digital products, and offers curated staffing resources for tech, product, and QA.
   positions:
   - designation: Sr. Lead DevSecOps Contractor
@@ -138,23 +138,8 @@ experiences:
     - Automating deployment, scaling, and management, both in the cloud (AWS, Azure) or on-premise.
     - Java, Python, NodeJS, DevOps, Agile
 - company:
-    name: Wilkinson Hardware Stores
-    url: "https://corporate.wilko.com"
-    location: UK, Nottingham
-    overview: British high-street retail chain which sells homewares and household goods
-  positions:
-  - designation: Software Engineer
-    start: Jul 2011
-    end: Jan 2012
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Working with prototypes and proof of concepts and developing fully functioning applications
-    - Producing rich front-end UI and efficient services
-    - Java, Python, Agile
-- company:
     name: Lukoil
     url: "https://www.lukoil.com/"
-    location: BLR
     overview: One of the largest oil & gas vertical integrated companies in the world
   positions:
   - designation: Software Engineer
@@ -168,7 +153,6 @@ experiences:
 - company:
     name: Radiovolna
     url: "http://radiovolna.com.by/en"
-    location: BLR
     overview: Milti-profile industrial enterprise working in the field of electrical equipments
   positions:
   - designation: Embedded Engineer
