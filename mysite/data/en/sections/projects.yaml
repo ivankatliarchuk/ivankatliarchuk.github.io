@@ -608,6 +608,13 @@ projects:
   summary: 'bug fixes and added capabilities'
   tags: ["helm", "contributor", "kubernetes", "test"]
 
+- name: "Terraform module to create Amazon Elastic Kubernetes (EKS) resources"
+  role: Contributor
+  timeline: "2024 - Present"
+  repo: https://github.com/terraform-aws-modules/terraform-aws-eks
+  summary: 'bug fixes and added capabilities'
+  tags: ["terraform", "contributor", "kubernetes"]
+
 # Mixe
 
 - name: "Rest Api: hello-world"
