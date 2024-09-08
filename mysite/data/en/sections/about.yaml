@@ -21,7 +21,7 @@ company:
   url: "https://www.hollandandbarrettcorporate.com/"
 
 # a summary about you
-summary: 'Working as a technology professional for the last decade on various projects and an IT enthusiast by passion. I breathe technology and know-how to determine the real problem. Have a long history in software development e.g., Java, C#, Python, NodeJs, and Golang. My main responsibility is to provide a resilient, secure, and highly available platform for our products and services to run on, and that the overall strategy for a platform is defined and deliverd on time. I believe sharing knowledge is my way to make this world a better place.'
+summary: 'Working as a technology professional for the last decade on various projects and an IT enthusiast by passion. I breathe technology and know-how to determine the real problem. Have a long history in software development e.g., Java, C#, Python, NodeJs, and Golang. My main responsibility is to provide a resilient, secure, and highly available platform for our products and services to run on, and that the overall strategy for a platform is defined and delivered on time.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,7 +39,7 @@ socialLinks:
   url: "https://www.linkedin.com/in/ivankatliarchuk"
 
 - name: Credly
-  icon: "fab angle-double-right"
+  icon: "fab fa-certificate"
   url: "https://www.credly.com/users/ivan-katliarchuk/badges"
 
 # your soft skills
