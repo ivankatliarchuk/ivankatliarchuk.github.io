@@ -470,7 +470,7 @@ projects:
 
 # Python
 
-- name: "Python: national lottary probably winner"
+- name: "Python: national lottery probably winner"
   role: Owner
   timeline: "Jul 2020 - Present"
   repo: "https://github.com/ik-python/probable-winner"
@@ -615,7 +615,21 @@ projects:
   summary: 'bug fixes and added capabilities'
   tags: ["terraform", "contributor", "kubernetes"]
 
-# Mixe
+- name: "Gitlab on Kubernetes helm: Official Helm Chart for the GitLab Runner"
+  role: Contributor
+  timeline: "2024 - Present"
+  repo: https://gitlab.com/gitlab-org/charts/gitlab-runner
+  summary: 'code coverage and new capabilities'
+  tags: ["helm", "contributor", "kubernetes", "gitlab"]
+
+- name: "ExternalDNS: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services"
+  role: Contributor
+  timeline: "2024 - Present"
+  repo: https://github.com/kubernetes-sigs/external-dns
+  summary: 'code coverage and new capabilities'
+  tags: ["contributor", "kubernetes", "external-dns"]
+
+# Mixed
 
 - name: "Rest Api: hello-world"
   role: Owner
