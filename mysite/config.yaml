@@ -45,12 +45,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  # ru:
-  #   languageName: Russian
-  #   weight: 2
-
-# Enable Google Analytics
-googleAnalytics: G-34BX8C1SJF
 
 params:
   # Background image of the landing page
@@ -83,3 +77,11 @@ params:
   # Enable & configure "Notes" features
   notes:
     enable: true
+
+  # Enable Analytics
+  analytics:
+    enabled: true
+    services:
+      # Google Analytics
+      google:
+        id: G-34BX8C1SJF
