@@ -13,6 +13,8 @@
 
 ---
 
+Resume in folder `mysite/static/files`
+
 ## TODO
 
 - [X] Setup [hugo github actions](https://github.com/peaceiris/actions-hugo)
