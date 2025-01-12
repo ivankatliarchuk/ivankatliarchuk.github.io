@@ -627,7 +627,7 @@ projects:
   timeline: "2024 - Present"
   repo: https://github.com/kubernetes-sigs/external-dns
   summary: 'code coverage and new capabilities'
-  tags: ["contributor", "kubernetes", "external-dns"]
+  tags: ["kubernetes-sigs", "contributor", "kubernetes", "external-dns"]
 
 # Mixed
 
