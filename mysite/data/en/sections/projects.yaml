@@ -564,7 +564,7 @@ projects:
   timeline: "2021 - Present"
   repo: https://github.com/renovatebot/renovate
   summary: 'multiple issues and bug fixes'
-  tags: ["nodejs", "contributor", "automation"]
+  tags: ["nodejs", "contributor", "automation", "dependency-update"]
 
 - name: "Toha: A Hugo theme for personal portfolio "
   role: Contributor
@@ -626,8 +626,15 @@ projects:
   role: Contributor
   timeline: "2024 - Present"
   repo: https://github.com/kubernetes-sigs/external-dns
-  summary: 'code coverage and new capabilities'
+  summary: 'code coverage and new capabilities kubernetes-sigs:member'
   tags: ["kubernetes-sigs", "contributor", "kubernetes", "external-dns"]
+
+- name: "goccy go-yaml: This library has NO relation to the go-yaml/yaml library"
+  role: Contributor
+  timeline: "2025 - Present"
+  repo: https://github.com/goccy/go-yaml
+  summary: 'YAML support for the Go language '
+  tags: ["kubernetes-sigs", "contributor", "yaml", "golang"]
 
 # Mixed
 
