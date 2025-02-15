@@ -1,0 +1,44 @@
+logo = true
+logoText = "Knowldge Base"
+logoType = "short" # long, short
+description = "Documentation site."
+editBaseURL = "https://ivankatliarchuk.github.io"
+themeOptions = ["light", "dark"]
+
+useFaviconGenerator = true # https://www.favicon-generator.org/
+wideViewAsDefault = true
+
+enableWideBlogSwitch = true
+enableLandingBackground = true
+enableLangChange = false # shell language should be enabled/disabled
+enableDarkMode = true
+enableBreadcrumb = true
+enableBlogBreadcrumb = true
+enableEditBtn = false # enable/disable edit
+enableMenu = true
+enableNavbar = true
+enableFooter = true
+showPoweredBy = true
+# Search
+enableSearch = true
+enableSearchHighlight = true
+enableAppbarSearchIcon = false
+searchResultPosition = "side" # side, main
+
+# TOD
+hideToc = true
+enableToc = true
+enableTocContent = true
+enableTocSwitch = true
+tocLevels = ["h2", "h3", "h4", "h5"]
+
+paginateWindow = 1
+taxoPaginate = 13
+taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+
+github = "https://github.com/ivankatliarchuk"
+
+enableComment = false
+[utterances]       # https://utteranc.es/
+  owner = "zzossig"              # Your GitHub ID
+  repo = "zzoDocs"               # The repo to store comments

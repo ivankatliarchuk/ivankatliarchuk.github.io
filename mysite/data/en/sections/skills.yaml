@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Tech Stack
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Systems Architecture
+  logo: "images/skills/architecture/sa-10.png"
+  summary: "Expert in Software and System & Platform Architecture. Services, Microservices and Serverless architecture."
+
+- name: Consulting
+  logo: "images/skills/consulting/con-5.png"
+  summary: "I work with clients, big and small. Very much user centric and client focus. Tools come and go. It's more about right mindset, capabilities, skills and continuous learning."
+
+- name: "DevSecOps & SRE"
+  logo: "images/skills/devops/dso-7.png"
+  summary: "I find delivering advanced technology and software hardening to unexpected events coupled with automation to people of all skill levels to be absolutely fantastic."
+  url: "https://www.devsecops.org/"
+
+- name: "Operations"
+  logo: "images/skills/monitoring/mon-2.png"
+  summary: "Expert in fixing the cause, not the symptom. Day 2 ops and alerting solutions expert."
+  url: "https://prometheus.io/"
+
+- name: Programming
+  logo: "images/skills/code/code-6.png"
+  summary: "Proficient in Python, Shell, C#, NodeJS, Java, Golang and C for firmware development."
+
+- name: Cloud Computing
+  logo: "images/skills/cloud.png"
+  summary: "I work with AWS and GCE on daily basis and used to work with Azure."
+
+- name: "Infrastructure as Code"
+  logo: "images/skills/ioc/ioc-4.png"
+  summary: "Managing services in the cloud and any scale. I can help you with writing IaC, troubleshooting your code and setting up your workflows and IaC tools to be efficient."
+  url: "https://en.wikipedia.org/wiki/Infrastructure_as_code"
+
+- name: Kubernetes
+  logo: "images/skills/kubernetes.png"
+  summary: "I have experience with architecting and running on-prem/cloud HA K8s clusters. Cluster security, service meches and etc"
+  url: "https://kubernetes.io/"
+
+- name: Linux and MacOS
+  logo: "images/skills/os/os-5.png"
+  summary: "I have been using Linux since before you heard of a modem."
+
+# - name: Git
+#   logo: "images/skills/git.png"
+#   summary: "Experienced with git-based development e.g, trunk based, feature flags, git flow and etc "
+#   url: "https://git-scm.com/"

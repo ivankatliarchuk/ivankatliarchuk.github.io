@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  hideTitle: false
+
+degrees:
+- name: BSc (Honours) Computing and IT
+  icon: fa-graduation-cap
+  timeframe: 2020-Present
+  institution:
+    name: Open University UK
+    url: https://www.open.ac.uk/
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Software engineering (TM354)
+    - name: Developing concurrent distributed systems (M362)
+    - name: Web, mobile and cloud technologies (TM352)
+- name: Diploma of Higher Education in Computing and IT
+  icon: fa-graduation-cap
+  timeframe: 2013-2018
+  institution:
+    name: Open University UK
+    url: https://www.open.ac.uk
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Algorithms, data structures and computability (M269)
+    - name: Web technologies (TT284)
+    - name: Software development with Java (M256)
+    - name: Object-oriented Java programming (M250)
+    - name: Technologies in practice (TM129)
+    - name: Discovering mathematics (MU123)
+    - name: My digital life (TU100)
+- name: Radio Physics & Engineering
+  icon: fa-school
+  timeframe: 2000-2003
+  institution:
+    name: Yanka Kupala State University of Grodno
+    url: https://en.grsu.by/index.php?lang=en
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Process modeling of micro-, opto-, and nanoelectronics
+    - name: Design Automation in Electronics
+    - name: Identification, access and surveillance systems
+    - name: Information processing methods

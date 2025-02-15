@@ -1,0 +1,81 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# your designation
+designation: Engineering Manager. SRE and Platforms
+# your company information
+company:
+  name: Holland & Barrett
+  url: "https://www.hollandandbarrettcorporate.com/"
+
+# a summary about you
+summary: 'Working as a technology professional for the last decade on various projects and an IT enthusiast by passion. I breathe technology and know-how to determine the real problem. Have a long history in software development e.g., Java, C#, Python, NodeJs, and Golang. My main responsibility is to provide a resilient, secure, and highly available platform for our products and services to run on, and that the overall strategy for a platform is defined and delivered on time.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "cloudkats@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ivankatliarchuk"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ivankatliarchuk"
+
+- name: Credly
+  icon: "fal fa-certificate"
+  url: "https://www.credly.com/users/ivan-katliarchuk/badges"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 100
+  color: orange
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 85
+  color: pink
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Automation
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Coding
+  percentage: 85
+  color: green
+
+- type: soft-skill-indicator
+  name: "Cloud Technologies"
+  percentage: 100
+  color: sky

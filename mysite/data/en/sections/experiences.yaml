@@ -1,0 +1,144 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: false
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+experiences:
+- company:
+    name: "Holland & Barrett"
+    url: "https://www.hollandandbarrettcorporate.com/"
+    location: UK, Remote
+    overview: "One of the world’s leading health and wellness retailers and the largest in Europe."
+  positions:
+  - designation: Engineering Manager. SRE and Platforms
+    start: Oct 2021
+    end: 2024
+    responsibilities:
+    - Maintain the connection to the big-picture vision/strategy and make it easier for a team to get things done.
+    - Responsible for the overall health of the common infrastructure and platform which underpins company products and services.
+    - Help to drive operations and automation to accelerate product delivery and ensure consistent and stable services through coordinating with technology teams
+    - Define and Support company hyperscale platform strategy
+    # - Provide a resilient, secure, and highly available platform for our products and services to run on, and that the overall strategy for   platform defined and deliverd on time
+
+    # - Lead team of platform engineers
+    # - Participate in engineering leadership team reporting into CTO
+    # - Design, maintain and improve technology processes and delivery pipelines
+    # - Transforming and enabling product teams to ship high-quality code quickly — without compromising autonomy
+
+- company:
+    name: "Nearform - External Contractor to McKinsey"
+    url: "https://www.nearform.com/services/devops"
+    location: UK, Europe, Remote
+    overview: Global software consultancy, enabling our clients to deliver real and lasting business impact through design and technology.
+  positions:
+  - designation: Senior DevOps & SRE
+    start: Dec 2019
+    end: October 2021
+    responsibilities:
+    - Engineering solutions for projects of different size
+    - Architecture, Platform design, DevSecOps and SRE leadership
+    - Security, Disaster Recovery, Automation, Infrastructure as code, Operations
+    - Managing and automating platform in multy tenant environment and hybrid clouds
+    - Python, NodeJS, Golang, AWS, Kubernetes, Microservices, Serverless, DevOps, SRE, Agile
+- company:
+    name: Armakuni
+    url: "https://www.armakuni.com"
+    location: UK, London, Remote
+    # company overview
+    overview: Specialist engineering consultants across Cloud Native technologies, practices and principles work with you to define and deliver your change journey.
+  positions:
+  - designation: Technical Consultant
+    start: Apr 2018
+    end: Dec 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Digital transformation
+    - Private and public clouds automation
+    - Infrastructure improvements, testing & security hardenin
+    - Golang, Python, NodeJS, AWS, GCP, Microservices, Serverless, DevOps, Agile
+- company:
+    name: Hermes Group
+    url: "https://www.hermesworld.com"
+    location: UK, Leeds
+    # company overview
+    overview: European delivery company operates acrross UK, Germany, Austria, Germany and Russia
+  positions:
+  - designation: Senior Engineer & DevOps
+    start: Dec 2016
+    end: Apr 2018
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead backend and infrastructure team
+    - Serverless infrastructure using pipelines, configuration as code, containers on multiple cloud platforms as well as on-premise
+    - Java, NodeJS, Android, AWS, Microservices, Serverless, DevOps, Agile
+- company:
+    name: MHR
+    url: "https://mhrglobal.com"
+    location: UK, Nottingham
+    overview: Build platform to streamline and transform HR and payroll processes.
+  positions:
+  - designation: Senior Software Engineer
+    start: Apr 2015
+    end: Dec 2016
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Transformed a monolith to a microservice architecture
+    - Migration applications from bare metal Solaris to Kubernetes
+    - Java, JS, C#, Azure, SQL Server, Microservices, DevOps, Agile
+- company:
+    name: 'Wonderment Apps'
+    location: USA, Remote
+    overview: Wonderment Apps builds superior digital products, and offers curated staffing resources for tech, product, and QA.
+  positions:
+  - designation: Lead DevSecOps Contractor
+    start: "2012"
+    end: "2015"
+    responsibilities:
+    - "Provide DevSecOps services to: Stamps, iHerb, Nasa, Cast It, Story Scout, Casting Networks, Million Stories"
+    - Inspire customers and peers to solve difficult problems with innovative and novel solutions, leveraging an excellent set of technical competences.
+    - Recommend migration strategies, enterprise architectures, migration tools, and cloud infrastructure required to successfully implement a complete solution using best practices
+    - C#, Java, Python, NodeJS, AWS, Azure, DevSecOps, Agile
+- company:
+    name: Boots Care Support Pharmacy
+    location: UK, Nottingham
+    overview: Health and beauty retailer and pharmacy chain
+  positions:
+  - designation: Engineer
+    start: Jan 2012
+    end: May 2012
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Maintain the technical intellectual property in the Integration tooling and automation space
+    - Automating deployment, scaling, and management, both in the cloud (AWS, Azure) or on-premise.
+    - Java, Python, NodeJS, DevOps, Agile
+- company:
+    name: Lukoil
+    url: "https://www.lukoil.com/"
+    overview: One of the largest oil & gas vertical integrated companies in the world
+  positions:
+  - designation: Software Engineer
+    start: 2007
+    end: 2011
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Translating legacy business systems onto modern architecture, platforms and languages
+    - Optimise Oil & Gas operations with advanced software solutions
+    - Java, Big Data
+- company:
+    name: Radiovolna
+    url: "http://radiovolna.com.by/en"
+    overview: Milti-profile industrial enterprise working in the field of electrical equipments
+  positions:
+  - designation: Embedded Engineer
+    start: 2004
+    end: 2007
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Working on the full product life-cycle of software for embedded systems
+    - Play an integral role in the development of high-performance, real-time embedded product.
+    - C, C++, Micro-controllers

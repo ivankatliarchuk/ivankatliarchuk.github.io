@@ -1,0 +1,50 @@
+name: github-pages-deploy
+
+on:
+  push:
+    branches:
+      - master # Set a branch to deploy
+
+env:
+  SITE_PATH: mysite
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4.1.7
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 2    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: setup hugo
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: update hugo modules
+        working-directory: ${{ env.SITE_PATH }}
+        run: hugo mod tidy
+
+      - name: setup node
+        uses: actions/setup-node@v4.0.2
+        with:
+          node-version: 18
+
+      - name: install node modules
+        working-directory: ${{ env.SITE_PATH }}
+        run: |
+          hugo mod npm pack
+          npm install
+
+      - name: build
+        run: |
+          hugo --minify -s ${{ env.SITE_PATH }} -d ../public
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages

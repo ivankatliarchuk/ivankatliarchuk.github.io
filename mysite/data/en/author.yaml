@@ -1,0 +1,24 @@
+# some information about you
+name: "Ivan Katliarchuk"
+nickname: "Ivan"
+image: "images/author/my-photo-sketch.jpg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hello ~"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "cloudkats@gmail.com"
+  github: ivankatliarchuk
+  linkedin: ivankatliarchuk
+
+# a summary of what you do
+summary:
+- I am a tEchni[c]al gEek
+- I work pretty much with any technology stack
+- I talk the talk, and ulmiately w[A]lk the walk
+- I love to lean new stuff
+- Hacker OPSEC. STFU is the best policy.
+- How can I help your business?
+- Be obsessed. Go ALL in...
+- I can bring insights from other industries

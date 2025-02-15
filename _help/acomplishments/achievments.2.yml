@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+  - title: The Lallantop Kahani Competition 2017
+    image: /images/sections/achievements/lallantop.png
+    summary: Top 16 Winner
+
+  - title: GNOME Community Engagement Challenge 2020
+    image: /images/sections/achievements/gnome-challenge.png
+    summary: Phase 1 Winner
+# - title: Graduation
+#   image: /images/sections/achievements/graduation-cap.jpg
+#   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+
+Achievements:
+  - https://www.crowdfundinsider.com/2019/05/147811-growth-street-surpasses-2500-investors-launches-ifisa/
+  - https://stampme.com/stamp-me-launches-a-loyalty-stamp-card-for-shopify-stores/
+  - https://www.stamps.com/
+  - https://www.google.com/search?q=myhermes+print+in+store+budget&oq=myhermes+print+in+store+budget&aqs=chrome..69i57j33i160.5672j0j7&sourceid=chrome&ie=UTF-8
+  - https://photostamps.com/
+  - https://www.stamps.com/media/news/20060906/#:~:text=PhotoStamps%20is%20a%20patented%20Stamps,have%20been%20ordered%20by%20customers.
