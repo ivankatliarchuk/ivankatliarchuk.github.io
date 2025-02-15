@@ -10,8 +10,8 @@ section:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+# - title: "My Resume"
+#   url: "files/resume.pdf"
 
 # your designation
 designation: Engineering Manager. SRE and Platforms
