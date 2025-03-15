@@ -562,7 +562,7 @@ projects:
 - name: "Renovate: Universal dependency update tool"
   role: Contributor
   timeline: "2021 - Present"
-  repo: https://github.com/renovatebot/renovate
+  repo: https://github.com/renovatebot/renovate/pulls?q=is%3Apr+is%3Aclosed+author%3Aivankatliarchuk
   summary: 'multiple issues and bug fixes'
   tags: ["nodejs", "contributor", "automation", "dependency-update"]
 
@@ -604,14 +604,14 @@ projects:
 - name: "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin"
   role: Contributor
   timeline: "2024 - Present"
-  repo: https://github.com/helm-unittest/helm-unittest
+  repo: https://github.com/helm-unittest/helm-unittest/pulls?q=is%3Apr+is%3Aclosed+author%3Aivankatliarchuk
   summary: 'bug fixes and added capabilities'
   tags: ["helm", "contributor", "kubernetes", "test"]
 
 - name: "Terraform module to create Amazon Elastic Kubernetes (EKS) resources"
   role: Contributor
   timeline: "2024 - Present"
-  repo: https://github.com/terraform-aws-modules/terraform-aws-eks
+  repo: https://github.com/terraform-aws-modules/terraform-aws-eks/pulls?q=is%3Apr+is%3Aclosed+author%3Aivankatliarchuk
   summary: 'bug fixes and added capabilities'
   tags: ["terraform", "contributor", "kubernetes"]
 
@@ -624,10 +624,10 @@ projects:
 
 - name: "ExternalDNS: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services"
   role: Contributor
-  timeline: "2024 - Present"
-  repo: https://github.com/kubernetes-sigs/external-dns
+  timeline: "2023 - Present"
+  repo: https://github.com/kubernetes-sigs/external-dns/pulls?q=is%3Apr+is%3Aclosed+author%3Aivankatliarchuk
   summary: 'code coverage and new capabilities kubernetes-sigs:member'
-  tags: ["kubernetes-sigs", "contributor", "kubernetes", "external-dns"]
+  tags: ["kubernetes-sigs", "maintainer", "kubernetes", "external-dns"]
 
 - name: "goccy go-yaml: This library has NO relation to the go-yaml/yaml library"
   role: Contributor
