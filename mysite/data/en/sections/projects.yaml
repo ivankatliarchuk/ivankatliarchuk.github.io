@@ -629,6 +629,13 @@ projects:
   summary: 'code coverage and new capabilities kubernetes-sigs:member'
   tags: ["kubernetes-sigs", "maintainer", "kubernetes", "external-dns"]
 
+- name: "External Secrets Operator reads information from a third-party service and automatically injects the values as Kubernetes Secrets."
+  role: Contributor
+  timeline: "2025 - Present"
+  repo: https://github.com/external-secrets/external-secrets/pulls?q=is%3Apr+is%3Aclosed+author%3Aivankatliarchuk
+  summary: 'code coverage and new capabilities kubernetes-sigs:member'
+  tags: ["kubernetes-sigs", "contributor", "kubernetes", "external-secrets"]
+
 - name: "goccy go-yaml: This library has NO relation to the go-yaml/yaml library"
   role: Contributor
   timeline: "2025 - Present"
