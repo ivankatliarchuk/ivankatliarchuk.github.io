@@ -643,6 +643,20 @@ projects:
   summary: 'YAML support for the Go language '
   tags: ["kubernetes-sigs", "contributor", "yaml", "golang"]
 
+- name: "kyverno: Cloud Native Policy Management"
+  role: Contributor
+  timeline: "2025 - Present"
+  repo: https://github.com/kyverno/kyverno
+  summary: 'YAML support for the Go language '
+  tags: ["kubernetes", "policies", "security", "golang"]
+
+- name: "moto: A library that allows you to easily mock out tests based on AWS infrastructure."
+  role: Contributor
+  timeline: "2025 - Present"
+  repo: https://github.com/getmoto/moto
+  summary: 'YAML support for the Go language '
+  tags: ["kubernetes", "aws", "python"]
+
 # Mixed
 
 - name: "Rest Api: hello-world"
